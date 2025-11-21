@@ -1,0 +1,39 @@
+# Composer
+
+/vendor/
+composer.lock
+
+# PHPUnit
+
+.phpunit.cache/
+.phpunit.result.cache
+coverage/
+
+# PHPStan
+
+phpstan.neon.dist
+.phpstan/
+
+# IDE
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+
+Thumbs.db
+desktop.ini
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.bak
+*.cache

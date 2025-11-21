@@ -1,0 +1,52 @@
+name: Update
+
+on:
+  schedule:
+    # Run at 12:00 JST
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
+  
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          extensions: json, mbstring
+
+      - name: Checkout source-data
+        run: |
+          git submodule update --remote --merge source-data
+  
+      - name: Build data files
+        run: php bin/build-data.php
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add -N src/Data/banks.php
+          if git diff --exit-code --quiet src/Data/banks.php source-data; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add source-data src/Data/banks.php
+          git commit -m "chore: update bank data from source-data [skip ci]"
+          git push

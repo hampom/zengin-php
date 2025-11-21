@@ -1,0 +1,19 @@
+parameters:
+    level: max
+    paths:
+        - src
+        - tests
+    
+    ignoreErrors:
+        # Add patterns here if you need to ignore specific warnings
+    
+    checkMissingIterableValueType: true
+    checkGenericClassInNonGenericObjectType: true
+    
+    checkUninitializedProperties: true
+    checkMissingCallableSignature: true
+    
+    polluteScopeWithLoopInitialAssignments: false
+    polluteScopeWithAlwaysIterableForeach: false
+    
+    phpVersion: 80100
