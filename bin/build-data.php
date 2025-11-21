@@ -73,7 +73,6 @@ $phpCode .= "declare(strict_types=1);\n\n";
 $phpCode .= "/**\n";
 $phpCode .= " * Bank data\n";
 $phpCode .= " * Auto-generated from zengin-code/source-data\n";
-$phpCode .= " * Generated at: " . date('Y-m-d H:i:s') . "\n";
 $phpCode .= " * Banks: " . count($banks) . "\n";
 $phpCode .= " * Branches: " . $branchCount . "\n";
 $phpCode .= " */\n\n";
