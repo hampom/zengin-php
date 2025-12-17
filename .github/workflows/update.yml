@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           submodules: 'recursive'
   
       - uses: shivammathur/setup-php@v2
@@ -49,4 +50,25 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add source-data src/Data/banks.php
           git commit -m "chore: update bank data from source-data [skip ci]"
-          git push
+
+      - name: Generate version tag
+        if: steps.check_changes.outputs.changed == 'true'
+        id: version
+        run: |
+          DATE=$(date +'%Y.%m.%d')
+
+          COUNT=0
+          while git rev-parse "$DATE${COUNT:+.$COUNT}" >/dev/null 2>&1; do
+            COUNT=$((COUNT+1))
+          done
+
+          VERSION="$DATE${COUNT:+.$COUNT}"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Push commit and tag
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git push origin HEAD
+          git tag ${{ steps.version.outputs.version }}
+          git push origin ${{ steps.version.outputs.version }}
+
