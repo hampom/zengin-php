@@ -153279,7 +153279,7 @@ return array (
       133 => 
       array (
         'code' => '157',
-        'name' => '森口',
+        'name' => '守口',
         'kana' => 'モリグチ',
         'hira' => 'もりぐち',
         'roma' => 'moriguchi',
