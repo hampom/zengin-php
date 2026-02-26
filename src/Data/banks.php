@@ -20359,13 +20359,29 @@ return array (
       ),
       19 => 
       array (
+        'code' => '211',
+        'name' => 'ＤＭＭ',
+        'kana' => 'デイ－エムエム',
+        'hira' => 'でい－えむえむ',
+        'roma' => 'dei-emuemu',
+      ),
+      20 => 
+      array (
+        'code' => '212',
+        'name' => 'ワールド',
+        'kana' => 'ワ－ルド',
+        'hira' => 'わ－るど',
+        'roma' => 'wa-rudo',
+      ),
+      21 => 
+      array (
         'code' => '251',
         'name' => 'メルカリ第一',
         'kana' => 'メルカリダイイチ',
         'hira' => 'めるかりだいいち',
         'roma' => 'merukaridaiichi',
       ),
-      20 => 
+      22 => 
       array (
         'code' => '252',
         'name' => 'メルカリ第二',
@@ -20373,7 +20389,7 @@ return array (
         'hira' => 'めるかりだいに',
         'roma' => 'merukaridaini',
       ),
-      21 => 
+      23 => 
       array (
         'code' => '253',
         'name' => 'メルカリ第三',
@@ -20381,7 +20397,7 @@ return array (
         'hira' => 'めるかりだいさん',
         'roma' => 'merukaridaisan',
       ),
-      22 => 
+      24 => 
       array (
         'code' => '254',
         'name' => 'メルカリ第四',
@@ -20389,7 +20405,7 @@ return array (
         'hira' => 'めるかりだいよん',
         'roma' => 'merukaridaiyon',
       ),
-      23 => 
+      25 => 
       array (
         'code' => '255',
         'name' => 'メルカリ第五',
@@ -20439,6 +20455,14 @@ return array (
         'kana' => 'ＣＱコアラ',
         'hira' => 'ＣＱこあら',
         'roma' => 'cqkoara',
+      ),
+      4 => 
+      array (
+        'code' => '401',
+        'name' => 'ＪＡＰＡＮｐａｙ第一',
+        'kana' => 'ＪＡＰＡＮＰＡＹダイイチ',
+        'hira' => 'ＪＡＰＡＮＰＡＹだいいち',
+        'roma' => 'japanpaydaiichi',
       ),
     ),
   ),
@@ -41735,7 +41759,7 @@ return array (
       188 => 
       array (
         'code' => '540',
-        'name' => '東京中央',
+        'name' => '東京中央営業部',
         'kana' => 'トウキヨウチユウオウ',
         'hira' => 'とうきようちゆうおう',
         'roma' => 'toukiyouchiyuuou',
@@ -41807,7 +41831,7 @@ return array (
       197 => 
       array (
         'code' => '811',
-        'name' => '東京',
+        'name' => '東京営業部',
         'kana' => 'トウキヨウ',
         'hira' => 'とうきよう',
         'roma' => 'toukiyou',
@@ -83958,7 +83982,7 @@ return array (
       7 => 
       array (
         'code' => '161',
-        'name' => '目黒',
+        'name' => '目黒出張所',
         'kana' => 'メグロ',
         'hira' => 'めぐろ',
         'roma' => 'meguro',
@@ -83974,7 +83998,7 @@ return array (
       9 => 
       array (
         'code' => '180',
-        'name' => '三軒茶屋',
+        'name' => '三軒茶屋出張所',
         'kana' => 'サンゲンヂヤヤ',
         'hira' => 'さんげんぢやや',
         'roma' => 'sangendiyaya',
@@ -113620,21 +113644,13 @@ return array (
       ),
       11 => 
       array (
-        'code' => '013',
-        'name' => '旭川東',
-        'kana' => 'アサヒカワヒガシ',
-        'hira' => 'あさひかわひがし',
-        'roma' => 'asahikawahigashi',
-      ),
-      12 => 
-      array (
         'code' => '014',
         'name' => '札幌',
         'kana' => 'サツポロ',
         'hira' => 'さつぽろ',
         'roma' => 'satsuporo',
       ),
-      13 => 
+      12 => 
       array (
         'code' => '015',
         'name' => '麻生',
@@ -133826,6 +133842,14 @@ return array (
         'kana' => 'シブヤ',
         'hira' => 'しぶや',
         'roma' => 'shibuya',
+      ),
+      83 => 
+      array (
+        'code' => '502',
+        'name' => 'おちゃのま',
+        'kana' => 'オチヤノマ',
+        'hira' => 'おちやのま',
+        'roma' => 'ochiyanoma',
       ),
     ),
   ),
@@ -173903,21 +173927,13 @@ return array (
       ),
       73 => 
       array (
-        'code' => '078',
-        'name' => '十王',
-        'kana' => 'ジユウオウ',
-        'hira' => 'じゆうおう',
-        'roma' => 'jiyuuou',
-      ),
-      74 => 
-      array (
         'code' => '091',
         'name' => '潮来牛堀',
         'kana' => 'イタコウシボリ',
         'hira' => 'いたこうしぼり',
         'roma' => 'itakoushibori',
       ),
-      75 => 
+      74 => 
       array (
         'code' => '092',
         'name' => '常陸太田',
@@ -173925,7 +173941,7 @@ return array (
         'hira' => 'ひたちおおた',
         'roma' => 'hitachioota',
       ),
-      76 => 
+      75 => 
       array (
         'code' => '093',
         'name' => '柿岡',
@@ -193539,20 +193555,12 @@ return array (
       1 => 
       array (
         'code' => '006',
-        'name' => '中央南',
-        'kana' => 'チユウオウミナミ',
-        'hira' => 'ちゆうおうみなみ',
-        'roma' => 'chiyuuouminami',
+        'name' => '東',
+        'kana' => 'ヒガシ',
+        'hira' => 'ひがし',
+        'roma' => 'higashi',
       ),
       2 => 
-      array (
-        'code' => '010',
-        'name' => '平内',
-        'kana' => 'ヒラナイ',
-        'hira' => 'ひらない',
-        'roma' => 'hiranai',
-      ),
-      3 => 
       array (
         'code' => '012',
         'name' => '蟹田',
@@ -193560,15 +193568,7 @@ return array (
         'hira' => 'かにた',
         'roma' => 'kanita',
       ),
-      4 => 
-      array (
-        'code' => '015',
-        'name' => '蓬田',
-        'kana' => 'ヨモギタ',
-        'hira' => 'よもぎた',
-        'roma' => 'yomogita',
-      ),
-      5 => 
+      3 => 
       array (
         'code' => '016',
         'name' => '浪岡',
@@ -193576,7 +193576,7 @@ return array (
         'hira' => 'なみおか',
         'roma' => 'namioka',
       ),
-      6 => 
+      4 => 
       array (
         'code' => '100',
         'name' => '本店',
