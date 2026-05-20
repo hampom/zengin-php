@@ -5,8 +5,8 @@ declare(strict_types=1);
 /**
  * Bank data
  * Auto-generated from zengin-code/source-data
- * Banks: 1152
- * Branches: 28973
+ * Banks: 1147
+ * Branches: 28948
  */
 
 return array (
@@ -22232,21 +22232,13 @@ return array (
       ),
       73 => 
       array (
-        'code' => '136',
-        'name' => 'イトーヨーカドー青森店出張所',
-        'kana' => 'イト－ヨ－カド－アオモリテン',
-        'hira' => 'いと－よ－かど－あおもりてん',
-        'roma' => 'ito-yo-kado-aomoriten',
-      ),
-      74 => 
-      array (
         'code' => '138',
         'name' => '田名部',
         'kana' => 'タナブ',
         'hira' => 'たなぶ',
         'roma' => 'tanabu',
       ),
-      75 => 
+      74 => 
       array (
         'code' => '140',
         'name' => '浜館',
@@ -22254,7 +22246,7 @@ return array (
         'hira' => 'はまだて',
         'roma' => 'hamadate',
       ),
-      76 => 
+      75 => 
       array (
         'code' => '150',
         'name' => '国道',
@@ -22262,7 +22254,7 @@ return array (
         'hira' => 'こくどう',
         'roma' => 'kokudou',
       ),
-      77 => 
+      76 => 
       array (
         'code' => '151',
         'name' => '栄町',
@@ -22270,7 +22262,7 @@ return array (
         'hira' => 'さかえまち',
         'roma' => 'sakaemachi',
       ),
-      78 => 
+      77 => 
       array (
         'code' => '152',
         'name' => '青森南',
@@ -22278,7 +22270,7 @@ return array (
         'hira' => 'あおもりみなみ',
         'roma' => 'aomoriminami',
       ),
-      79 => 
+      78 => 
       array (
         'code' => '153',
         'name' => '沖館',
@@ -22286,7 +22278,7 @@ return array (
         'hira' => 'おきだて',
         'roma' => 'okidate',
       ),
-      80 => 
+      79 => 
       array (
         'code' => '154',
         'name' => '桜川通り',
@@ -22294,7 +22286,7 @@ return array (
         'hira' => 'さくらがわどおり',
         'roma' => 'sakuragawadoori',
       ),
-      81 => 
+      80 => 
       array (
         'code' => '155',
         'name' => '金沢',
@@ -22302,7 +22294,7 @@ return array (
         'hira' => 'かなざわ',
         'roma' => 'kanazawa',
       ),
-      82 => 
+      81 => 
       array (
         'code' => '156',
         'name' => '戸山団地',
@@ -22310,7 +22302,7 @@ return array (
         'hira' => 'とやまだんち',
         'roma' => 'toyamadanchi',
       ),
-      83 => 
+      82 => 
       array (
         'code' => '157',
         'name' => '小湊',
@@ -22318,7 +22310,7 @@ return array (
         'hira' => 'こみなと',
         'roma' => 'kominato',
       ),
-      84 => 
+      83 => 
       array (
         'code' => '158',
         'name' => '石江新城',
@@ -22326,7 +22318,7 @@ return array (
         'hira' => 'いしえしんじよう',
         'roma' => 'ishieshinjiyou',
       ),
-      85 => 
+      84 => 
       array (
         'code' => '159',
         'name' => '佃',
@@ -22334,7 +22326,7 @@ return array (
         'hira' => 'つくだ',
         'roma' => 'tsukuda',
       ),
-      86 => 
+      85 => 
       array (
         'code' => '160',
         'name' => '桜川筒井',
@@ -22342,7 +22334,7 @@ return array (
         'hira' => 'さくらがわつつい',
         'roma' => 'sakuragawatsutsui',
       ),
-      87 => 
+      86 => 
       array (
         'code' => '161',
         'name' => '第二問屋町',
@@ -22350,7 +22342,7 @@ return array (
         'hira' => 'だいにとんやまち',
         'roma' => 'dainitonyamachi',
       ),
-      88 => 
+      87 => 
       array (
         'code' => '201',
         'name' => '親方町',
@@ -22358,7 +22350,7 @@ return array (
         'hira' => 'おやかたまち',
         'roma' => 'oyakatamachi',
       ),
-      89 => 
+      88 => 
       array (
         'code' => '202',
         'name' => '津軽和徳',
@@ -22366,7 +22358,7 @@ return array (
         'hira' => 'つがるわとく',
         'roma' => 'tsugaruwatoku',
       ),
-      90 => 
+      89 => 
       array (
         'code' => '203',
         'name' => '土手町',
@@ -22374,7 +22366,7 @@ return array (
         'hira' => 'どてまち',
         'roma' => 'dotemachi',
       ),
-      91 => 
+      90 => 
       array (
         'code' => '205',
         'name' => '弘前南',
@@ -22382,7 +22374,7 @@ return array (
         'hira' => 'ひろさきみなみ',
         'roma' => 'hirosakiminami',
       ),
-      92 => 
+      91 => 
       array (
         'code' => '206',
         'name' => '弘前駅前',
@@ -22390,7 +22382,7 @@ return array (
         'hira' => 'ひろさきえきまえ',
         'roma' => 'hirosakiekimae',
       ),
-      93 => 
+      92 => 
       array (
         'code' => '207',
         'name' => '弘前市役所出張所',
@@ -22398,7 +22390,7 @@ return array (
         'hira' => 'ひろさきしやくしよ',
         'roma' => 'hirosakishiyakushiyo',
       ),
-      94 => 
+      93 => 
       array (
         'code' => '208',
         'name' => '弘前東',
@@ -22406,7 +22398,7 @@ return array (
         'hira' => 'ひろさきひがし',
         'roma' => 'hirosakihigashi',
       ),
-      95 => 
+      94 => 
       array (
         'code' => '209',
         'name' => '富田',
@@ -22414,7 +22406,7 @@ return array (
         'hira' => 'とみた',
         'roma' => 'tomita',
       ),
-      96 => 
+      95 => 
       array (
         'code' => '211',
         'name' => '北大通',
@@ -22422,7 +22414,7 @@ return array (
         'hira' => 'きたおおどおり',
         'roma' => 'kitaoodoori',
       ),
-      97 => 
+      96 => 
       array (
         'code' => '214',
         'name' => '松原東',
@@ -22430,7 +22422,7 @@ return array (
         'hira' => 'まつばらひがし',
         'roma' => 'matsubarahigashi',
       ),
-      98 => 
+      97 => 
       array (
         'code' => '220',
         'name' => '下土手町',
@@ -22438,7 +22430,7 @@ return array (
         'hira' => 'したどてまち',
         'roma' => 'shitadotemachi',
       ),
-      99 => 
+      98 => 
       array (
         'code' => '221',
         'name' => '上土手町',
@@ -22446,7 +22438,7 @@ return array (
         'hira' => 'かみどてまち',
         'roma' => 'kamidotemachi',
       ),
-      100 => 
+      99 => 
       array (
         'code' => '222',
         'name' => '城東',
@@ -22454,7 +22446,7 @@ return array (
         'hira' => 'じようとう',
         'roma' => 'jiyoutou',
       ),
-      101 => 
+      100 => 
       array (
         'code' => '223',
         'name' => '弘前公園前',
@@ -22462,7 +22454,7 @@ return array (
         'hira' => 'ひろさきこうえんまえ',
         'roma' => 'hirosakikouemmae',
       ),
-      102 => 
+      101 => 
       array (
         'code' => '224',
         'name' => '西弘前',
@@ -22470,7 +22462,7 @@ return array (
         'hira' => 'にしひろさき',
         'roma' => 'nishihirosaki',
       ),
-      103 => 
+      102 => 
       array (
         'code' => '225',
         'name' => '岩木',
@@ -22478,7 +22470,7 @@ return array (
         'hira' => 'いわき',
         'roma' => 'iwaki',
       ),
-      104 => 
+      103 => 
       array (
         'code' => '226',
         'name' => '松原',
@@ -22486,7 +22478,7 @@ return array (
         'hira' => 'まつばら',
         'roma' => 'matsubara',
       ),
-      105 => 
+      104 => 
       array (
         'code' => '227',
         'name' => '堅田',
@@ -22494,7 +22486,7 @@ return array (
         'hira' => 'かただ',
         'roma' => 'katada',
       ),
-      106 => 
+      105 => 
       array (
         'code' => '228',
         'name' => '松森町',
@@ -22502,7 +22494,7 @@ return array (
         'hira' => 'まつもりまち',
         'roma' => 'matsumorimachi',
       ),
-      107 => 
+      106 => 
       array (
         'code' => '229',
         'name' => '石渡',
@@ -22510,7 +22502,7 @@ return array (
         'hira' => 'いしわたり',
         'roma' => 'ishiwatari',
       ),
-      108 => 
+      107 => 
       array (
         'code' => '301',
         'name' => '八戸',
@@ -22518,7 +22510,7 @@ return array (
         'hira' => 'はちのへ',
         'roma' => 'hachinohe',
       ),
-      109 => 
+      108 => 
       array (
         'code' => '302',
         'name' => '湊',
@@ -22526,7 +22518,7 @@ return array (
         'hira' => 'みなと',
         'roma' => 'minato',
       ),
-      110 => 
+      109 => 
       array (
         'code' => '303',
         'name' => '鮫',
@@ -22534,7 +22526,7 @@ return array (
         'hira' => 'さめ',
         'roma' => 'same',
       ),
-      111 => 
+      110 => 
       array (
         'code' => '307',
         'name' => '三日町',
@@ -22542,7 +22534,7 @@ return array (
         'hira' => 'みつかまち',
         'roma' => 'mitsukamachi',
       ),
-      112 => 
+      111 => 
       array (
         'code' => '309',
         'name' => '城下中央',
@@ -22550,7 +22542,7 @@ return array (
         'hira' => 'しろしたちゆうおう',
         'roma' => 'shiroshitachiyuuou',
       ),
-      113 => 
+      112 => 
       array (
         'code' => '310',
         'name' => '鮫白銀',
@@ -22558,7 +22550,7 @@ return array (
         'hira' => 'さめしろがね',
         'roma' => 'sameshirogane',
       ),
-      114 => 
+      113 => 
       array (
         'code' => '311',
         'name' => '八戸市庁',
@@ -22566,7 +22558,7 @@ return array (
         'hira' => 'はちのへしちよう',
         'roma' => 'hachinoheshichiyou',
       ),
-      115 => 
+      114 => 
       array (
         'code' => '312',
         'name' => '旭ケ丘中央',
@@ -22574,7 +22566,7 @@ return array (
         'hira' => 'あさひがおかちゆうおう',
         'roma' => 'asahigaokachiyuuou',
       ),
-      116 => 
+      115 => 
       array (
         'code' => '313',
         'name' => '卸市場',
@@ -22582,7 +22574,7 @@ return array (
         'hira' => 'おろししじよう',
         'roma' => 'oroshishijiyou',
       ),
-      117 => 
+      116 => 
       array (
         'code' => '316',
         'name' => '根城',
@@ -22590,7 +22582,7 @@ return array (
         'hira' => 'ねじよう',
         'roma' => 'nejiyou',
       ),
-      118 => 
+      117 => 
       array (
         'code' => '319',
         'name' => '石堂',
@@ -22598,7 +22590,7 @@ return array (
         'hira' => 'いしどう',
         'roma' => 'ishidou',
       ),
-      119 => 
+      118 => 
       array (
         'code' => '320',
         'name' => '南類家',
@@ -22606,7 +22598,7 @@ return array (
         'hira' => 'みなみるいけ',
         'roma' => 'minamiruike',
       ),
-      120 => 
+      119 => 
       array (
         'code' => '322',
         'name' => '八戸西',
@@ -22614,7 +22606,7 @@ return array (
         'hira' => 'はちのへにし',
         'roma' => 'hachinohenishi',
       ),
-      121 => 
+      120 => 
       array (
         'code' => '330',
         'name' => '柳町',
@@ -22622,7 +22614,7 @@ return array (
         'hira' => 'やなぎまち',
         'roma' => 'yanagimachi',
       ),
-      122 => 
+      121 => 
       array (
         'code' => '331',
         'name' => '白銀',
@@ -22630,7 +22622,7 @@ return array (
         'hira' => 'しろがね',
         'roma' => 'shirogane',
       ),
-      123 => 
+      122 => 
       array (
         'code' => '332',
         'name' => '類家',
@@ -22638,7 +22630,7 @@ return array (
         'hira' => 'るいけ',
         'roma' => 'ruike',
       ),
-      124 => 
+      123 => 
       array (
         'code' => '333',
         'name' => '売市',
@@ -22646,7 +22638,7 @@ return array (
         'hira' => 'うるいち',
         'roma' => 'uruichi',
       ),
-      125 => 
+      124 => 
       array (
         'code' => '401',
         'name' => '黒石',
@@ -22654,7 +22646,7 @@ return array (
         'hira' => 'くろいし',
         'roma' => 'kuroishi',
       ),
-      126 => 
+      125 => 
       array (
         'code' => '402',
         'name' => '大鰐',
@@ -22662,7 +22654,7 @@ return array (
         'hira' => 'おおわに',
         'roma' => 'oowani',
       ),
-      127 => 
+      126 => 
       array (
         'code' => '403',
         'name' => '藤崎',
@@ -22670,7 +22662,7 @@ return array (
         'hira' => 'ふじさき',
         'roma' => 'fujisaki',
       ),
-      128 => 
+      127 => 
       array (
         'code' => '404',
         'name' => '浪岡中央',
@@ -22678,7 +22670,7 @@ return array (
         'hira' => 'なみおかちゆうおう',
         'roma' => 'namiokachiyuuou',
       ),
-      129 => 
+      128 => 
       array (
         'code' => '406',
         'name' => '平川',
@@ -22686,7 +22678,7 @@ return array (
         'hira' => 'ひらかわ',
         'roma' => 'hirakawa',
       ),
-      130 => 
+      129 => 
       array (
         'code' => '410',
         'name' => '城東大鰐',
@@ -22694,7 +22686,7 @@ return array (
         'hira' => 'じようとうおおわに',
         'roma' => 'jiyoutouoowani',
       ),
-      131 => 
+      130 => 
       array (
         'code' => '411',
         'name' => '平賀',
@@ -22702,7 +22694,7 @@ return array (
         'hira' => 'ひらか',
         'roma' => 'hiraka',
       ),
-      132 => 
+      131 => 
       array (
         'code' => '412',
         'name' => '黒石内町',
@@ -22710,7 +22702,7 @@ return array (
         'hira' => 'くろいしうちまち',
         'roma' => 'kuroishiuchimachi',
       ),
-      133 => 
+      132 => 
       array (
         'code' => '501',
         'name' => '五所川原',
@@ -22718,7 +22710,7 @@ return array (
         'hira' => 'ごしよがわら',
         'roma' => 'goshiyogawara',
       ),
-      134 => 
+      133 => 
       array (
         'code' => '502',
         'name' => '鶴田',
@@ -22726,7 +22718,7 @@ return array (
         'hira' => 'つるた',
         'roma' => 'tsuruta',
       ),
-      135 => 
+      134 => 
       array (
         'code' => '503',
         'name' => '板柳',
@@ -22734,7 +22726,7 @@ return array (
         'hira' => 'いたやなぎ',
         'roma' => 'itayanagi',
       ),
-      136 => 
+      135 => 
       array (
         'code' => '505',
         'name' => '金木中央',
@@ -22742,7 +22734,7 @@ return array (
         'hira' => 'かなぎちゆうおう',
         'roma' => 'kanagichiyuuou',
       ),
-      137 => 
+      136 => 
       array (
         'code' => '506',
         'name' => 'つがる',
@@ -22750,7 +22742,7 @@ return array (
         'hira' => 'つがる',
         'roma' => 'tsugaru',
       ),
-      138 => 
+      137 => 
       array (
         'code' => '507',
         'name' => '鯵ケ沢',
@@ -22758,7 +22750,7 @@ return array (
         'hira' => 'あじがさわ',
         'roma' => 'ajigasawa',
       ),
-      139 => 
+      138 => 
       array (
         'code' => '508',
         'name' => '深浦',
@@ -22766,7 +22758,7 @@ return array (
         'hira' => 'ふかうら',
         'roma' => 'fukaura',
       ),
-      140 => 
+      139 => 
       array (
         'code' => '510',
         'name' => 'エルムの街',
@@ -22774,7 +22766,7 @@ return array (
         'hira' => 'えるむのまち',
         'roma' => 'erumunomachi',
       ),
-      141 => 
+      140 => 
       array (
         'code' => '520',
         'name' => '五所川原中央',
@@ -22782,7 +22774,7 @@ return array (
         'hira' => 'ごしよがわらちゆうおう',
         'roma' => 'goshiyogawarachiyuuou',
       ),
-      142 => 
+      141 => 
       array (
         'code' => '521',
         'name' => '板柳南',
@@ -22790,7 +22782,7 @@ return array (
         'hira' => 'いたやなぎみなみ',
         'roma' => 'itayanagiminami',
       ),
-      143 => 
+      142 => 
       array (
         'code' => '522',
         'name' => '鶴田駅前通り',
@@ -22798,7 +22790,7 @@ return array (
         'hira' => 'つるたえきまえどおり',
         'roma' => 'tsurutaekimaedoori',
       ),
-      144 => 
+      143 => 
       array (
         'code' => '523',
         'name' => '小泊',
@@ -22806,7 +22798,7 @@ return array (
         'hira' => 'こどまり',
         'roma' => 'kodomari',
       ),
-      145 => 
+      144 => 
       array (
         'code' => '524',
         'name' => '鰺ケ沢東',
@@ -22814,7 +22806,7 @@ return array (
         'hira' => 'あじがさわひがし',
         'roma' => 'ajigasawahigashi',
       ),
-      146 => 
+      145 => 
       array (
         'code' => '525',
         'name' => '松島',
@@ -22822,7 +22814,7 @@ return array (
         'hira' => 'まつしま',
         'roma' => 'matsushima',
       ),
-      147 => 
+      146 => 
       array (
         'code' => '601',
         'name' => '十和田',
@@ -22830,7 +22822,7 @@ return array (
         'hira' => 'とわだ',
         'roma' => 'towada',
       ),
-      148 => 
+      147 => 
       array (
         'code' => '602',
         'name' => '三沢',
@@ -22838,7 +22830,7 @@ return array (
         'hira' => 'みさわ',
         'roma' => 'misawa',
       ),
-      149 => 
+      148 => 
       array (
         'code' => '603',
         'name' => '七戸中央',
@@ -22846,7 +22838,7 @@ return array (
         'hira' => 'しちのへちゆうおう',
         'roma' => 'shichinohechiyuuou',
       ),
-      150 => 
+      149 => 
       array (
         'code' => '604',
         'name' => '野辺地',
@@ -22854,7 +22846,7 @@ return array (
         'hira' => 'のへじ',
         'roma' => 'noheji',
       ),
-      151 => 
+      150 => 
       array (
         'code' => '605',
         'name' => '百石',
@@ -22862,7 +22854,7 @@ return array (
         'hira' => 'ももいし',
         'roma' => 'momoishi',
       ),
-      152 => 
+      151 => 
       array (
         'code' => '606',
         'name' => '乙供',
@@ -22870,7 +22862,7 @@ return array (
         'hira' => 'おつとも',
         'roma' => 'otsutomo',
       ),
-      153 => 
+      152 => 
       array (
         'code' => '607',
         'name' => '上北町',
@@ -22878,7 +22870,7 @@ return array (
         'hira' => 'かみきたちよう',
         'roma' => 'kamikitachiyou',
       ),
-      154 => 
+      153 => 
       array (
         'code' => '608',
         'name' => '十和田南',
@@ -22886,7 +22878,7 @@ return array (
         'hira' => 'とわだみなみ',
         'roma' => 'towadaminami',
       ),
-      155 => 
+      154 => 
       array (
         'code' => '609',
         'name' => '六ケ所中央',
@@ -22894,7 +22886,7 @@ return array (
         'hira' => 'ろつかしよちゆうおう',
         'roma' => 'rotsukashiyochiyuuou',
       ),
-      156 => 
+      155 => 
       array (
         'code' => '611',
         'name' => '十和田北',
@@ -22902,7 +22894,7 @@ return array (
         'hira' => 'とわだきた',
         'roma' => 'towadakita',
       ),
-      157 => 
+      156 => 
       array (
         'code' => '612',
         'name' => '松園町',
@@ -22910,7 +22902,7 @@ return array (
         'hira' => 'まつぞのちよう',
         'roma' => 'matsuzonochiyou',
       ),
-      158 => 
+      157 => 
       array (
         'code' => '614',
         'name' => '堀口',
@@ -22918,7 +22910,7 @@ return array (
         'hira' => 'ほりぐち',
         'roma' => 'horiguchi',
       ),
-      159 => 
+      158 => 
       array (
         'code' => '620',
         'name' => '横浜',
@@ -22926,7 +22918,7 @@ return array (
         'hira' => 'よこはま',
         'roma' => 'yokohama',
       ),
-      160 => 
+      159 => 
       array (
         'code' => '621',
         'name' => '三沢中央',
@@ -22934,7 +22926,7 @@ return array (
         'hira' => 'みさわちゆうおう',
         'roma' => 'misawachiyuuou',
       ),
-      161 => 
+      160 => 
       array (
         'code' => '622',
         'name' => '岡三沢',
@@ -22942,7 +22934,7 @@ return array (
         'hira' => 'おかみさわ',
         'roma' => 'okamisawa',
       ),
-      162 => 
+      161 => 
       array (
         'code' => '701',
         'name' => 'むつ',
@@ -22950,7 +22942,7 @@ return array (
         'hira' => 'むつ',
         'roma' => 'mutsu',
       ),
-      163 => 
+      162 => 
       array (
         'code' => '702',
         'name' => '大湊',
@@ -22958,7 +22950,7 @@ return array (
         'hira' => 'おおみなと',
         'roma' => 'oominato',
       ),
-      164 => 
+      163 => 
       array (
         'code' => '704',
         'name' => 'むつ大畑出張所',
@@ -22966,7 +22958,7 @@ return array (
         'hira' => 'むつおおはた',
         'roma' => 'mutsuoohata',
       ),
-      165 => 
+      164 => 
       array (
         'code' => '705',
         'name' => '大間',
@@ -22974,7 +22966,7 @@ return array (
         'hira' => 'おおま',
         'roma' => 'ooma',
       ),
-      166 => 
+      165 => 
       array (
         'code' => '801',
         'name' => '三戸',
@@ -22982,7 +22974,7 @@ return array (
         'hira' => 'さんのへ',
         'roma' => 'sannohe',
       ),
-      167 => 
+      166 => 
       array (
         'code' => '802',
         'name' => '五戸',
@@ -22990,7 +22982,7 @@ return array (
         'hira' => 'ごのへ',
         'roma' => 'gonohe',
       ),
-      168 => 
+      167 => 
       array (
         'code' => '803',
         'name' => '南部',
@@ -22998,7 +22990,7 @@ return array (
         'hira' => 'なんぶ',
         'roma' => 'nambu',
       ),
-      169 => 
+      168 => 
       array (
         'code' => '804',
         'name' => '田子',
@@ -23006,7 +22998,7 @@ return array (
         'hira' => 'たつこ',
         'roma' => 'tatsuko',
       ),
-      170 => 
+      169 => 
       array (
         'code' => '805',
         'name' => '階上',
@@ -23014,7 +23006,7 @@ return array (
         'hira' => 'はしかみ',
         'roma' => 'hashikami',
       ),
-      171 => 
+      170 => 
       array (
         'code' => '901',
         'name' => '大館中央',
@@ -23022,7 +23014,7 @@ return array (
         'hira' => 'おおだてちゆうおう',
         'roma' => 'oodatechiyuuou',
       ),
-      172 => 
+      171 => 
       array (
         'code' => '903',
         'name' => '能代中央',
@@ -23030,7 +23022,7 @@ return array (
         'hira' => 'のしろちゆうおう',
         'roma' => 'noshirochiyuuou',
       ),
-      173 => 
+      172 => 
       array (
         'code' => '911',
         'name' => '梁川町',
@@ -23038,7 +23030,7 @@ return array (
         'hira' => 'やながわちよう',
         'roma' => 'yanagawachiyou',
       ),
-      174 => 
+      173 => 
       array (
         'code' => '912',
         'name' => '札幌中央',
@@ -23046,7 +23038,7 @@ return array (
         'hira' => 'さつぽろちゆうおう',
         'roma' => 'satsuporochiyuuou',
       ),
-      175 => 
+      174 => 
       array (
         'code' => '921',
         'name' => '東京',
@@ -23054,7 +23046,7 @@ return array (
         'hira' => 'とうきよう',
         'roma' => 'toukiyou',
       ),
-      176 => 
+      175 => 
       array (
         'code' => '931',
         'name' => '仙台',
@@ -23062,7 +23054,7 @@ return array (
         'hira' => 'せんだい',
         'roma' => 'sendai',
       ),
-      177 => 
+      176 => 
       array (
         'code' => '941',
         'name' => '盛岡中央',
@@ -23070,7 +23062,7 @@ return array (
         'hira' => 'もりおかちゆうおう',
         'roma' => 'moriokachiyuuou',
       ),
-      178 => 
+      177 => 
       array (
         'code' => '950',
         'name' => '大館',
@@ -23078,7 +23070,7 @@ return array (
         'hira' => 'おおだて',
         'roma' => 'oodate',
       ),
-      179 => 
+      178 => 
       array (
         'code' => '951',
         'name' => '比内',
@@ -23086,7 +23078,7 @@ return array (
         'hira' => 'ひない',
         'roma' => 'hinai',
       ),
-      180 => 
+      179 => 
       array (
         'code' => '952',
         'name' => '函館営業部',
@@ -23094,7 +23086,7 @@ return array (
         'hira' => 'はこだて',
         'roma' => 'hakodate',
       ),
-      181 => 
+      180 => 
       array (
         'code' => '953',
         'name' => '亀田',
@@ -23102,7 +23094,7 @@ return array (
         'hira' => 'かめだ',
         'roma' => 'kameda',
       ),
-      182 => 
+      181 => 
       array (
         'code' => '954',
         'name' => '美原',
@@ -23110,7 +23102,7 @@ return array (
         'hira' => 'みはら',
         'roma' => 'mihara',
       ),
-      183 => 
+      182 => 
       array (
         'code' => '955',
         'name' => '湯川',
@@ -23118,7 +23110,7 @@ return array (
         'hira' => 'ゆのかわ',
         'roma' => 'yunokawa',
       ),
-      184 => 
+      183 => 
       array (
         'code' => '956',
         'name' => 'ききょう',
@@ -23126,7 +23118,7 @@ return array (
         'hira' => 'ききよう',
         'roma' => 'kikiyou',
       ),
-      185 => 
+      184 => 
       array (
         'code' => '971',
         'name' => 'あおもりネット',
@@ -23134,7 +23126,7 @@ return array (
         'hira' => 'あおもりねつと',
         'roma' => 'aomorinetsuto',
       ),
-      186 => 
+      185 => 
       array (
         'code' => '982',
         'name' => 'りんご',
@@ -28309,13 +28301,21 @@ return array (
       ),
       109 => 
       array (
+        'code' => '777',
+        'name' => 'インターネット',
+        'kana' => 'インタ－ネツト',
+        'hira' => 'いんた－ねつと',
+        'roma' => 'inta-netsuto',
+      ),
+      110 => 
+      array (
         'code' => '800',
         'name' => '白石',
         'kana' => 'シロイシ',
         'hira' => 'しろいし',
         'roma' => 'shiroishi',
       ),
-      110 => 
+      111 => 
       array (
         'code' => '801',
         'name' => '蔵王',
@@ -28323,7 +28323,7 @@ return array (
         'hira' => 'ざおう',
         'roma' => 'zaou',
       ),
-      111 => 
+      112 => 
       array (
         'code' => '802',
         'name' => '大河原',
@@ -28331,7 +28331,7 @@ return array (
         'hira' => 'おおがわら',
         'roma' => 'oogawara',
       ),
-      112 => 
+      113 => 
       array (
         'code' => '803',
         'name' => '船岡',
@@ -28339,7 +28339,7 @@ return array (
         'hira' => 'ふなおか',
         'roma' => 'funaoka',
       ),
-      113 => 
+      114 => 
       array (
         'code' => '804',
         'name' => '槻木',
@@ -28347,7 +28347,7 @@ return array (
         'hira' => 'つきのき',
         'roma' => 'tsukinoki',
       ),
-      114 => 
+      115 => 
       array (
         'code' => '805',
         'name' => '村田',
@@ -28355,7 +28355,7 @@ return array (
         'hira' => 'むらた',
         'roma' => 'murata',
       ),
-      115 => 
+      116 => 
       array (
         'code' => '806',
         'name' => '丸森',
@@ -28363,7 +28363,7 @@ return array (
         'hira' => 'まるもり',
         'roma' => 'marumori',
       ),
-      116 => 
+      117 => 
       array (
         'code' => '807',
         'name' => '角田',
@@ -28371,7 +28371,7 @@ return array (
         'hira' => 'かくだ',
         'roma' => 'kakuda',
       ),
-      117 => 
+      118 => 
       array (
         'code' => '808',
         'name' => '亘理',
@@ -28379,7 +28379,7 @@ return array (
         'hira' => 'わたり',
         'roma' => 'watari',
       ),
-      118 => 
+      119 => 
       array (
         'code' => '809',
         'name' => '山下',
@@ -28387,7 +28387,7 @@ return array (
         'hira' => 'やました',
         'roma' => 'yamashita',
       ),
-      119 => 
+      120 => 
       array (
         'code' => '811',
         'name' => '岩沼',
@@ -28395,7 +28395,7 @@ return array (
         'hira' => 'いわぬま',
         'roma' => 'iwanuma',
       ),
-      120 => 
+      121 => 
       array (
         'code' => '812',
         'name' => '増田',
@@ -28403,7 +28403,7 @@ return array (
         'hira' => 'ますだ',
         'roma' => 'masuda',
       ),
-      121 => 
+      122 => 
       array (
         'code' => '813',
         'name' => '閖上',
@@ -28411,7 +28411,7 @@ return array (
         'hira' => 'ゆりあげ',
         'roma' => 'yuriage',
       ),
-      122 => 
+      123 => 
       array (
         'code' => '814',
         'name' => '名取西',
@@ -28419,7 +28419,7 @@ return array (
         'hira' => 'なとりにし',
         'roma' => 'natorinishi',
       ),
-      123 => 
+      124 => 
       array (
         'code' => '815',
         'name' => '仙台空港出張所',
@@ -28427,7 +28427,7 @@ return array (
         'hira' => 'せんだいくうこう',
         'roma' => 'sendaikuukou',
       ),
-      124 => 
+      125 => 
       array (
         'code' => '817',
         'name' => '杜せきのした',
@@ -28435,7 +28435,7 @@ return array (
         'hira' => 'もりせきのした',
         'roma' => 'morisekinoshita',
       ),
-      125 => 
+      126 => 
       array (
         'code' => '818',
         'name' => '岩沼西',
@@ -28443,7 +28443,7 @@ return array (
         'hira' => 'いわぬまにし',
         'roma' => 'iwanumanishi',
       ),
-      126 => 
+      127 => 
       array (
         'code' => '895',
         'name' => '川崎',
@@ -28451,7 +28451,7 @@ return array (
         'hira' => 'かわさき',
         'roma' => 'kawasaki',
       ),
-      127 => 
+      128 => 
       array (
         'code' => '900',
         'name' => '東京',
@@ -28459,7 +28459,7 @@ return array (
         'hira' => 'とうきよう',
         'roma' => 'toukiyou',
       ),
-      128 => 
+      129 => 
       array (
         'code' => '901',
         'name' => '日本橋',
@@ -28467,7 +28467,7 @@ return array (
         'hira' => 'にほんばし',
         'roma' => 'nihombashi',
       ),
-      129 => 
+      130 => 
       array (
         'code' => '910',
         'name' => '福島',
@@ -28475,7 +28475,7 @@ return array (
         'hira' => 'ふくしま',
         'roma' => 'fukushima',
       ),
-      130 => 
+      131 => 
       array (
         'code' => '911',
         'name' => '平',
@@ -28483,7 +28483,7 @@ return array (
         'hira' => 'たいら',
         'roma' => 'taira',
       ),
-      131 => 
+      132 => 
       array (
         'code' => '912',
         'name' => '小名浜',
@@ -28491,7 +28491,7 @@ return array (
         'hira' => 'おなはま',
         'roma' => 'onahama',
       ),
-      132 => 
+      133 => 
       array (
         'code' => '915',
         'name' => '原町',
@@ -28499,7 +28499,7 @@ return array (
         'hira' => 'はらまち',
         'roma' => 'haramachi',
       ),
-      133 => 
+      134 => 
       array (
         'code' => '916',
         'name' => '相馬',
@@ -28507,7 +28507,7 @@ return array (
         'hira' => 'そうま',
         'roma' => 'souma',
       ),
-      134 => 
+      135 => 
       array (
         'code' => '917',
         'name' => '郡山',
@@ -28515,7 +28515,7 @@ return array (
         'hira' => 'こおりやま',
         'roma' => 'kooriyama',
       ),
-      135 => 
+      136 => 
       array (
         'code' => '920',
         'name' => '青森',
@@ -28523,7 +28523,7 @@ return array (
         'hira' => 'あおもり',
         'roma' => 'aomori',
       ),
-      136 => 
+      137 => 
       array (
         'code' => '930',
         'name' => '盛岡',
@@ -28531,7 +28531,7 @@ return array (
         'hira' => 'もりおか',
         'roma' => 'morioka',
       ),
-      137 => 
+      138 => 
       array (
         'code' => '931',
         'name' => '北上',
@@ -28539,7 +28539,7 @@ return array (
         'hira' => 'きたかみ',
         'roma' => 'kitakami',
       ),
-      138 => 
+      139 => 
       array (
         'code' => '935',
         'name' => '山形',
@@ -28547,7 +28547,7 @@ return array (
         'hira' => 'やまがた',
         'roma' => 'yamagata',
       ),
-      139 => 
+      140 => 
       array (
         'code' => '940',
         'name' => '秋田',
@@ -28555,7 +28555,7 @@ return array (
         'hira' => 'あきた',
         'roma' => 'akita',
       ),
-      140 => 
+      141 => 
       array (
         'code' => '945',
         'name' => '名古屋',
@@ -28563,7 +28563,7 @@ return array (
         'hira' => 'なごや',
         'roma' => 'nagoya',
       ),
-      141 => 
+      142 => 
       array (
         'code' => '950',
         'name' => '大阪',
@@ -28571,7 +28571,7 @@ return array (
         'hira' => 'おおさか',
         'roma' => 'oosaka',
       ),
-      142 => 
+      143 => 
       array (
         'code' => '960',
         'name' => '札幌',
@@ -28579,7 +28579,7 @@ return array (
         'hira' => 'さつぽろ',
         'roma' => 'satsuporo',
       ),
-      143 => 
+      144 => 
       array (
         'code' => '985',
         'name' => '振込専用',
@@ -118907,7 +118907,7 @@ return array (
       8 => 
       array (
         'code' => '012',
-        'name' => '安積',
+        'name' => '安積営業部',
         'kana' => 'アサカ',
         'hira' => 'あさか',
         'roma' => 'asaka',
@@ -121416,10 +121416,10 @@ return array (
       4 => 
       array (
         'code' => '006',
-        'name' => '思川',
-        'kana' => 'オモイガワ',
-        'hira' => 'おもいがわ',
-        'roma' => 'omoigawa',
+        'name' => '小山',
+        'kana' => 'オヤマ',
+        'hira' => 'おやま',
+        'roma' => 'oyama',
       ),
       5 => 
       array (
@@ -154479,6 +154479,14 @@ return array (
       ),
       30 => 
       array (
+        'code' => '032',
+        'name' => '尼崎',
+        'kana' => 'アマガサキ',
+        'hira' => 'あまがさき',
+        'roma' => 'amagasaki',
+      ),
+      31 => 
+      array (
         'code' => '080',
         'name' => '大阪ときめき',
         'kana' => 'オオサカトキメキ',
@@ -161179,10 +161187,10 @@ return array (
       8 => 
       array (
         'code' => '010',
-        'name' => '木次',
-        'kana' => 'キスキ',
-        'hira' => 'きすき',
-        'roma' => 'kisuki',
+        'name' => '雲南',
+        'kana' => 'ウンナン',
+        'hira' => 'うんなん',
+        'roma' => 'unnan',
       ),
       9 => 
       array (
@@ -161194,21 +161202,13 @@ return array (
       ),
       10 => 
       array (
-        'code' => '012',
-        'name' => '三刀屋',
-        'kana' => 'ミトヤ',
-        'hira' => 'みとや',
-        'roma' => 'mitoya',
-      ),
-      11 => 
-      array (
         'code' => '014',
         'name' => '春日',
         'kana' => 'カスガ',
         'hira' => 'かすが',
         'roma' => 'kasuga',
       ),
-      12 => 
+      11 => 
       array (
         'code' => '016',
         'name' => '乃木',
@@ -165289,21 +165289,13 @@ return array (
       ),
       20 => 
       array (
-        'code' => '044',
-        'name' => '川内',
-        'kana' => 'カワウチ',
-        'hira' => 'かわうち',
-        'roma' => 'kawauchi',
-      ),
-      21 => 
-      array (
         'code' => '045',
         'name' => 'とべ中央',
         'kana' => 'トベチユウオウ',
         'hira' => 'とべちゆうおう',
         'roma' => 'tobechiyuuou',
       ),
-      22 => 
+      21 => 
       array (
         'code' => '046',
         'name' => '垣生',
@@ -165311,7 +165303,7 @@ return array (
         'hira' => 'はぶ',
         'roma' => 'habu',
       ),
-      23 => 
+      22 => 
       array (
         'code' => '047',
         'name' => '溝辺',
@@ -165319,7 +165311,7 @@ return array (
         'hira' => 'みぞのべ',
         'roma' => 'mizonobe',
       ),
-      24 => 
+      23 => 
       array (
         'code' => '048',
         'name' => '雄郡',
@@ -165327,7 +165319,7 @@ return array (
         'hira' => 'ゆうぐん',
         'roma' => 'yuugun',
       ),
-      25 => 
+      24 => 
       array (
         'code' => '049',
         'name' => '和泉',
@@ -165335,7 +165327,7 @@ return array (
         'hira' => 'いずみ',
         'roma' => 'izumi',
       ),
-      26 => 
+      25 => 
       array (
         'code' => '050',
         'name' => '久万',
@@ -165343,7 +165335,7 @@ return array (
         'hira' => 'くま',
         'roma' => 'kuma',
       ),
-      27 => 
+      26 => 
       array (
         'code' => '052',
         'name' => '三津浜',
@@ -165351,7 +165343,7 @@ return array (
         'hira' => 'みつはま',
         'roma' => 'mitsuhama',
       ),
-      28 => 
+      27 => 
       array (
         'code' => '054',
         'name' => '味生',
@@ -165359,7 +165351,7 @@ return array (
         'hira' => 'みぶ',
         'roma' => 'mibu',
       ),
-      29 => 
+      28 => 
       array (
         'code' => '055',
         'name' => '北条',
@@ -165367,7 +165359,7 @@ return array (
         'hira' => 'ほうじよう',
         'roma' => 'houjiyou',
       ),
-      30 => 
+      29 => 
       array (
         'code' => '056',
         'name' => 'きし',
@@ -165375,7 +165367,7 @@ return array (
         'hira' => 'きし',
         'roma' => 'kishi',
       ),
-      31 => 
+      30 => 
       array (
         'code' => '060',
         'name' => '菊間',
@@ -165383,7 +165375,7 @@ return array (
         'hira' => 'きくま',
         'roma' => 'kikuma',
       ),
-      32 => 
+      31 => 
       array (
         'code' => '061',
         'name' => '大西',
@@ -165391,7 +165383,7 @@ return array (
         'hira' => 'おおにし',
         'roma' => 'oonishi',
       ),
-      33 => 
+      32 => 
       array (
         'code' => '066',
         'name' => '郡中',
@@ -165399,7 +165391,7 @@ return array (
         'hira' => 'ぐんちゆう',
         'roma' => 'gunchiyuu',
       ),
-      34 => 
+      33 => 
       array (
         'code' => '067',
         'name' => '松前',
@@ -165407,7 +165399,7 @@ return array (
         'hira' => 'まさき',
         'roma' => 'masaki',
       ),
-      35 => 
+      34 => 
       array (
         'code' => '070',
         'name' => '壬生川',
@@ -165415,7 +165407,7 @@ return array (
         'hira' => 'にゆうがわ',
         'roma' => 'niyuugawa',
       ),
-      36 => 
+      35 => 
       array (
         'code' => '071',
         'name' => '丹原',
@@ -165423,7 +165415,7 @@ return array (
         'hira' => 'たんばら',
         'roma' => 'tambara',
       ),
-      37 => 
+      36 => 
       array (
         'code' => '072',
         'name' => '西条',
@@ -165431,7 +165423,7 @@ return array (
         'hira' => 'さいじよう',
         'roma' => 'saijiyou',
       ),
-      38 => 
+      37 => 
       array (
         'code' => '073',
         'name' => '新居浜',
@@ -165439,7 +165431,7 @@ return array (
         'hira' => 'にいはま',
         'roma' => 'niihama',
       ),
-      39 => 
+      38 => 
       array (
         'code' => '074',
         'name' => '中萩',
@@ -165447,7 +165439,7 @@ return array (
         'hira' => 'なかはぎ',
         'roma' => 'nakahagi',
       ),
-      40 => 
+      39 => 
       array (
         'code' => '075',
         'name' => '三島',
@@ -165455,7 +165447,7 @@ return array (
         'hira' => 'みしま',
         'roma' => 'mishima',
       ),
-      41 => 
+      40 => 
       array (
         'code' => '076',
         'name' => '川之江',
@@ -165463,7 +165455,7 @@ return array (
         'hira' => 'かわのえ',
         'roma' => 'kawanoe',
       ),
-      42 => 
+      41 => 
       array (
         'code' => '080',
         'name' => '八幡浜',
@@ -165471,7 +165463,7 @@ return array (
         'hira' => 'やわたはま',
         'roma' => 'yawatahama',
       ),
-      43 => 
+      42 => 
       array (
         'code' => '084',
         'name' => '大洲',
@@ -165479,7 +165471,7 @@ return array (
         'hira' => 'おおず',
         'roma' => 'oozu',
       ),
-      44 => 
+      43 => 
       array (
         'code' => '085',
         'name' => '野村',
@@ -192165,21 +192157,13 @@ return array (
       ),
       1 => 
       array (
-        'code' => '004',
-        'name' => '春日出張所',
-        'kana' => 'カスガ',
-        'hira' => 'かすが',
-        'roma' => 'kasuga',
-      ),
-      2 => 
-      array (
         'code' => '006',
         'name' => '上富良野',
         'kana' => 'カミフラノ',
         'hira' => 'かみふらの',
         'roma' => 'kamifurano',
       ),
-      3 => 
+      2 => 
       array (
         'code' => '008',
         'name' => '中富良野',
@@ -192187,7 +192171,7 @@ return array (
         'hira' => 'なかふらの',
         'roma' => 'nakafurano',
       ),
-      4 => 
+      3 => 
       array (
         'code' => '009',
         'name' => '山部',
@@ -192195,7 +192179,7 @@ return array (
         'hira' => 'やまべ',
         'roma' => 'yamabe',
       ),
-      5 => 
+      4 => 
       array (
         'code' => '011',
         'name' => '南富良野',
@@ -195482,29 +195466,13 @@ return array (
       ),
       3 => 
       array (
-        'code' => '106',
-        'name' => '松山',
-        'kana' => 'マツヤマ',
-        'hira' => 'まつやま',
-        'roma' => 'matsuyama',
-      ),
-      4 => 
-      array (
         'code' => '107',
         'name' => '涌谷',
         'kana' => 'ワクヤ',
         'hira' => 'わくや',
         'roma' => 'wakuya',
       ),
-      5 => 
-      array (
-        'code' => '110',
-        'name' => '南郷',
-        'kana' => 'ナンゴウ',
-        'hira' => 'なんごう',
-        'roma' => 'nangou',
-      ),
-      6 => 
+      4 => 
       array (
         'code' => '111',
         'name' => '田尻',
@@ -195512,7 +195480,7 @@ return array (
         'hira' => 'たじり',
         'roma' => 'tajiri',
       ),
-      7 => 
+      5 => 
       array (
         'code' => '201',
         'name' => '築館',
@@ -195520,23 +195488,7 @@ return array (
         'hira' => 'つきだて',
         'roma' => 'tsukidate',
       ),
-      8 => 
-      array (
-        'code' => '202',
-        'name' => '高清水',
-        'kana' => 'タカシミズ',
-        'hira' => 'たかしみず',
-        'roma' => 'takashimizu',
-      ),
-      9 => 
-      array (
-        'code' => '204',
-        'name' => '志波姫',
-        'kana' => 'シワヒメ',
-        'hira' => 'しわひめ',
-        'roma' => 'shiwahime',
-      ),
-      10 => 
+      6 => 
       array (
         'code' => '205',
         'name' => '若柳',
@@ -195544,23 +195496,7 @@ return array (
         'hira' => 'わかやなぎ',
         'roma' => 'wakayanagi',
       ),
-      11 => 
-      array (
-        'code' => '207',
-        'name' => '一迫',
-        'kana' => 'イチハサマ',
-        'hira' => 'いちはさま',
-        'roma' => 'ichihasama',
-      ),
-      12 => 
-      array (
-        'code' => '209',
-        'name' => '金成中央',
-        'kana' => 'カンナリチユウオウ',
-        'hira' => 'かんなりちゆうおう',
-        'roma' => 'kannarichiyuuou',
-      ),
-      13 => 
+      7 => 
       array (
         'code' => '211',
         'name' => '栗駒中央',
@@ -195568,7 +195504,7 @@ return array (
         'hira' => 'くりこまちゆうおう',
         'roma' => 'kurikomachiyuuou',
       ),
-      14 => 
+      8 => 
       array (
         'code' => '301',
         'name' => '志津川',
@@ -195576,23 +195512,7 @@ return array (
         'hira' => 'しづがわ',
         'roma' => 'shidugawa',
       ),
-      15 => 
-      array (
-        'code' => '302',
-        'name' => '津山',
-        'kana' => 'ツヤマ',
-        'hira' => 'つやま',
-        'roma' => 'tsuyama',
-      ),
-      16 => 
-      array (
-        'code' => '303',
-        'name' => '歌津',
-        'kana' => 'ウタツ',
-        'hira' => 'うたつ',
-        'roma' => 'utatsu',
-      ),
-      17 => 
+      9 => 
       array (
         'code' => '304',
         'name' => '本吉',
@@ -195600,15 +195520,7 @@ return array (
         'hira' => 'もとよし',
         'roma' => 'motoyoshi',
       ),
-      18 => 
-      array (
-        'code' => '305',
-        'name' => '階上',
-        'kana' => 'ハシカミ',
-        'hira' => 'はしかみ',
-        'roma' => 'hashikami',
-      ),
-      19 => 
+      10 => 
       array (
         'code' => '306',
         'name' => '気仙沼',
@@ -195616,7 +195528,7 @@ return array (
         'hira' => 'けせんぬま',
         'roma' => 'kesennuma',
       ),
-      20 => 
+      11 => 
       array (
         'code' => '401',
         'name' => '大和',
@@ -195624,15 +195536,7 @@ return array (
         'hira' => 'たいわ',
         'roma' => 'taiwa',
       ),
-      21 => 
-      array (
-        'code' => '402',
-        'name' => '大和インター',
-        'kana' => 'タイワインタ－',
-        'hira' => 'たいわいんた－',
-        'roma' => 'taiwainta-',
-      ),
-      22 => 
+      12 => 
       array (
         'code' => '403',
         'name' => '大郷',
@@ -195640,23 +195544,7 @@ return array (
         'hira' => 'おおさと',
         'roma' => 'oosato',
       ),
-      23 => 
-      array (
-        'code' => '404',
-        'name' => '富谷',
-        'kana' => 'トミヤ',
-        'hira' => 'とみや',
-        'roma' => 'tomiya',
-      ),
-      24 => 
-      array (
-        'code' => '405',
-        'name' => '大衡',
-        'kana' => 'オオヒラ',
-        'hira' => 'おおひら',
-        'roma' => 'oohira',
-      ),
-      25 => 
+      13 => 
       array (
         'code' => '501',
         'name' => 'いわでやま',
@@ -196667,25 +196555,6 @@ return array (
   ),
   765 => 
   array (
-    'code' => '3917',
-    'name' => 'うご農協',
-    'kana' => 'ウゴノウキヨウ',
-    'hira' => 'うごのうきよう',
-    'roma' => 'ugonoukiyou',
-    'branches' => 
-    array (
-      0 => 
-      array (
-        'code' => '001',
-        'name' => '本所',
-        'kana' => 'ホンシヨ',
-        'hira' => 'ほんしよ',
-        'roma' => 'honshiyo',
-      ),
-    ),
-  ),
-  766 => 
-  array (
     'code' => '3929',
     'name' => '大潟村農協',
     'kana' => 'オオガタムラノウキヨウ',
@@ -196703,7 +196572,7 @@ return array (
       ),
     ),
   ),
-  767 => 
+  766 => 
   array (
     'code' => '3931',
     'name' => '山形市農協',
@@ -196762,7 +196631,7 @@ return array (
       ),
     ),
   ),
-  768 => 
+  767 => 
   array (
     'code' => '3932',
     'name' => '山形農協',
@@ -196909,7 +196778,7 @@ return array (
       ),
     ),
   ),
-  769 => 
+  768 => 
   array (
     'code' => '3938',
     'name' => '天童市農協',
@@ -196928,7 +196797,7 @@ return array (
       ),
     ),
   ),
-  770 => 
+  769 => 
   array (
     'code' => '3943',
     'name' => 'さがえ西村山農協',
@@ -197011,7 +196880,7 @@ return array (
       ),
     ),
   ),
-  771 => 
+  770 => 
   array (
     'code' => '3960',
     'name' => 'みちのく村山農協',
@@ -197062,7 +196931,7 @@ return array (
       ),
     ),
   ),
-  772 => 
+  771 => 
   array (
     'code' => '3962',
     'name' => '東根市農協',
@@ -197105,7 +196974,7 @@ return array (
       ),
     ),
   ),
-  773 => 
+  772 => 
   array (
     'code' => '3971',
     'name' => '新庄市農協',
@@ -197124,7 +196993,7 @@ return array (
       ),
     ),
   ),
-  774 => 
+  773 => 
   array (
     'code' => '3973',
     'name' => 'もがみ中央農協',
@@ -197199,7 +197068,7 @@ return array (
       ),
     ),
   ),
-  775 => 
+  774 => 
   array (
     'code' => '3987',
     'name' => '金山農協',
@@ -197218,7 +197087,7 @@ return array (
       ),
     ),
   ),
-  776 => 
+  775 => 
   array (
     'code' => '3989',
     'name' => '山形おきたま農協',
@@ -197301,7 +197170,7 @@ return array (
       ),
     ),
   ),
-  777 => 
+  776 => 
   array (
     'code' => '4000',
     'name' => '鶴岡市農協',
@@ -197320,29 +197189,13 @@ return array (
       ),
       1 => 
       array (
-        'code' => '004',
-        'name' => '南',
-        'kana' => 'ミナミ',
-        'hira' => 'みなみ',
-        'roma' => 'minami',
-      ),
-      2 => 
-      array (
         'code' => '007',
         'name' => '中央',
         'kana' => 'チユウオウ',
         'hira' => 'ちゆうおう',
         'roma' => 'chiyuuou',
       ),
-      3 => 
-      array (
-        'code' => '008',
-        'name' => '北',
-        'kana' => 'キタ',
-        'hira' => 'きた',
-        'roma' => 'kita',
-      ),
-      4 => 
+      2 => 
       array (
         'code' => '013',
         'name' => '西郷',
@@ -197352,7 +197205,7 @@ return array (
       ),
     ),
   ),
-  778 => 
+  777 => 
   array (
     'code' => '4013',
     'name' => '庄内たがわ農協',
@@ -197427,7 +197280,7 @@ return array (
       ),
     ),
   ),
-  779 => 
+  778 => 
   array (
     'code' => '4022',
     'name' => '余目町農協',
@@ -197446,7 +197299,7 @@ return array (
       ),
     ),
   ),
-  780 => 
+  779 => 
   array (
     'code' => '4027',
     'name' => '庄内みどり農協',
@@ -197529,7 +197382,7 @@ return array (
       ),
     ),
   ),
-  781 => 
+  780 => 
   array (
     'code' => '4036',
     'name' => '酒田市袖浦農協',
@@ -197548,7 +197401,7 @@ return array (
       ),
     ),
   ),
-  782 => 
+  781 => 
   array (
     'code' => '4047',
     'name' => 'ふくしま未来農協',
@@ -197839,7 +197692,7 @@ return array (
       ),
     ),
   ),
-  783 => 
+  782 => 
   array (
     'code' => '4091',
     'name' => '夢みなみ農協',
@@ -198002,7 +197855,7 @@ return array (
       ),
     ),
   ),
-  784 => 
+  783 => 
   array (
     'code' => '4132',
     'name' => '東西しらかわ農協',
@@ -198069,7 +197922,7 @@ return array (
       ),
     ),
   ),
-  785 => 
+  784 => 
   array (
     'code' => '4160',
     'name' => '会津よつば農協',
@@ -198384,7 +198237,7 @@ return array (
       ),
     ),
   ),
-  786 => 
+  785 => 
   array (
     'code' => '4196',
     'name' => '福島さくら農協',
@@ -198763,7 +198616,7 @@ return array (
       ),
     ),
   ),
-  787 => 
+  786 => 
   array (
     'code' => '4238',
     'name' => '水戸農協',
@@ -198830,7 +198683,7 @@ return array (
       ),
     ),
   ),
-  788 => 
+  787 => 
   array (
     'code' => '4263',
     'name' => '常陸農協',
@@ -199017,7 +198870,7 @@ return array (
       ),
     ),
   ),
-  789 => 
+  788 => 
   array (
     'code' => '4294',
     'name' => '日立市多賀農協',
@@ -199036,7 +198889,7 @@ return array (
       ),
     ),
   ),
-  790 => 
+  789 => 
   array (
     'code' => '4295',
     'name' => '茨城旭村農協',
@@ -199055,7 +198908,7 @@ return array (
       ),
     ),
   ),
-  791 => 
+  790 => 
   array (
     'code' => '4296',
     'name' => 'ほこた農協',
@@ -199074,7 +198927,7 @@ return array (
       ),
     ),
   ),
-  792 => 
+  791 => 
   array (
     'code' => '4301',
     'name' => 'なめがたしおさい農協',
@@ -199157,7 +199010,7 @@ return array (
       ),
     ),
   ),
-  793 => 
+  792 => 
   array (
     'code' => '4322',
     'name' => '稲敷農協',
@@ -199200,7 +199053,7 @@ return array (
       ),
     ),
   ),
-  794 => 
+  793 => 
   array (
     'code' => '4344',
     'name' => '水郷つくば農協',
@@ -199323,7 +199176,7 @@ return array (
       ),
     ),
   ),
-  795 => 
+  794 => 
   array (
     'code' => '4363',
     'name' => 'つくば市農協',
@@ -199390,7 +199243,7 @@ return array (
       ),
     ),
   ),
-  796 => 
+  795 => 
   array (
     'code' => '4371',
     'name' => 'つくば市谷田部農協',
@@ -199417,7 +199270,7 @@ return array (
       ),
     ),
   ),
-  797 => 
+  796 => 
   array (
     'code' => '4378',
     'name' => '茨城みなみ農協',
@@ -199476,7 +199329,7 @@ return array (
       ),
     ),
   ),
-  798 => 
+  797 => 
   array (
     'code' => '4387',
     'name' => 'やさと農協',
@@ -199511,7 +199364,7 @@ return array (
       ),
     ),
   ),
-  799 => 
+  798 => 
   array (
     'code' => '4394',
     'name' => '新ひたち野農協',
@@ -199562,7 +199415,7 @@ return array (
       ),
     ),
   ),
-  800 => 
+  799 => 
   array (
     'code' => '4397',
     'name' => '北つくば農協',
@@ -199661,7 +199514,7 @@ return array (
       ),
     ),
   ),
-  801 => 
+  800 => 
   array (
     'code' => '4413',
     'name' => '常総ひかり農協',
@@ -199728,7 +199581,7 @@ return array (
       ),
     ),
   ),
-  802 => 
+  801 => 
   array (
     'code' => '4422',
     'name' => '茨城むつみ農協',
@@ -199795,7 +199648,7 @@ return array (
       ),
     ),
   ),
-  803 => 
+  802 => 
   array (
     'code' => '4425',
     'name' => '岩井農協',
@@ -199846,7 +199699,7 @@ return array (
       ),
     ),
   ),
-  804 => 
+  803 => 
   array (
     'code' => '4445',
     'name' => '宇都宮農協',
@@ -199969,7 +199822,7 @@ return array (
       ),
     ),
   ),
-  805 => 
+  804 => 
   array (
     'code' => '4456',
     'name' => '上都賀農協',
@@ -200028,7 +199881,7 @@ return array (
       ),
     ),
   ),
-  806 => 
+  805 => 
   array (
     'code' => '4463',
     'name' => 'はが野農協',
@@ -200095,7 +199948,7 @@ return array (
       ),
     ),
   ),
-  807 => 
+  806 => 
   array (
     'code' => '4478',
     'name' => '下野農協',
@@ -200178,7 +200031,7 @@ return array (
       ),
     ),
   ),
-  808 => 
+  807 => 
   array (
     'code' => '4490',
     'name' => '小山農協',
@@ -200253,7 +200106,7 @@ return array (
       ),
     ),
   ),
-  809 => 
+  808 => 
   array (
     'code' => '4497',
     'name' => '塩野谷農協',
@@ -200328,7 +200181,7 @@ return array (
       ),
     ),
   ),
-  810 => 
+  809 => 
   array (
     'code' => '4507',
     'name' => '那須野農協',
@@ -200411,7 +200264,7 @@ return array (
       ),
     ),
   ),
-  811 => 
+  810 => 
   array (
     'code' => '4518',
     'name' => '那須南農協',
@@ -200462,7 +200315,7 @@ return array (
       ),
     ),
   ),
-  812 => 
+  811 => 
   array (
     'code' => '4523',
     'name' => '佐野農協',
@@ -200569,7 +200422,7 @@ return array (
       ),
     ),
   ),
-  813 => 
+  812 => 
   array (
     'code' => '4533',
     'name' => '足利市農協',
@@ -200644,7 +200497,7 @@ return array (
       ),
     ),
   ),
-  814 => 
+  813 => 
   array (
     'code' => '4540',
     'name' => '赤城橘農協',
@@ -200679,7 +200532,7 @@ return array (
       ),
     ),
   ),
-  815 => 
+  814 => 
   array (
     'code' => '4544',
     'name' => '前橋市農協',
@@ -200786,7 +200639,7 @@ return array (
       ),
     ),
   ),
-  816 => 
+  815 => 
   array (
     'code' => '4563',
     'name' => '高崎市農協',
@@ -200869,7 +200722,7 @@ return array (
       ),
     ),
   ),
-  817 => 
+  816 => 
   array (
     'code' => '4567',
     'name' => 'はぐくみ農協',
@@ -200912,7 +200765,7 @@ return array (
       ),
     ),
   ),
-  818 => 
+  817 => 
   array (
     'code' => '4593',
     'name' => '北群渋川農協',
@@ -200963,7 +200816,7 @@ return array (
       ),
     ),
   ),
-  819 => 
+  818 => 
   array (
     'code' => '4594',
     'name' => '多野藤岡農協',
@@ -201022,7 +200875,7 @@ return array (
       ),
     ),
   ),
-  820 => 
+  819 => 
   array (
     'code' => '4608',
     'name' => '甘楽富岡農協',
@@ -201089,7 +200942,7 @@ return array (
       ),
     ),
   ),
-  821 => 
+  820 => 
   array (
     'code' => '4613',
     'name' => '碓氷安中農協',
@@ -201124,7 +200977,7 @@ return array (
       ),
     ),
   ),
-  822 => 
+  821 => 
   array (
     'code' => '4626',
     'name' => 'あがつま農協',
@@ -201175,7 +201028,7 @@ return array (
       ),
     ),
   ),
-  823 => 
+  822 => 
   array (
     'code' => '4628',
     'name' => '嬬恋村農協',
@@ -201210,7 +201063,7 @@ return array (
       ),
     ),
   ),
-  824 => 
+  823 => 
   array (
     'code' => '4632',
     'name' => '利根沼田農協',
@@ -201285,7 +201138,7 @@ return array (
       ),
     ),
   ),
-  825 => 
+  824 => 
   array (
     'code' => '4652',
     'name' => '佐波伊勢崎農協',
@@ -201368,7 +201221,7 @@ return array (
       ),
     ),
   ),
-  826 => 
+  825 => 
   array (
     'code' => '4664',
     'name' => '新田みどり農協',
@@ -201451,7 +201304,7 @@ return array (
       ),
     ),
   ),
-  827 => 
+  826 => 
   array (
     'code' => '4665',
     'name' => '太田市農協',
@@ -201542,7 +201395,7 @@ return array (
       ),
     ),
   ),
-  828 => 
+  827 => 
   array (
     'code' => '4677',
     'name' => '邑楽館林農協',
@@ -201681,7 +201534,7 @@ return array (
       ),
     ),
   ),
-  829 => 
+  828 => 
   array (
     'code' => '4682',
     'name' => 'さいたま農協',
@@ -202044,7 +201897,7 @@ return array (
       ),
     ),
   ),
-  830 => 
+  829 => 
   array (
     'code' => '4730',
     'name' => 'あさか野農協',
@@ -202103,7 +201956,7 @@ return array (
       ),
     ),
   ),
-  831 => 
+  830 => 
   array (
     'code' => '4735',
     'name' => 'いるま野農協',
@@ -202410,7 +202263,7 @@ return array (
       ),
     ),
   ),
-  832 => 
+  831 => 
   array (
     'code' => '4780',
     'name' => '埼玉中央農協',
@@ -202509,7 +202362,7 @@ return array (
       ),
     ),
   ),
-  833 => 
+  832 => 
   array (
     'code' => '4792',
     'name' => 'ちちぶ農協',
@@ -202552,7 +202405,7 @@ return array (
       ),
     ),
   ),
-  834 => 
+  833 => 
   array (
     'code' => '4802',
     'name' => '埼玉ひびきの農協',
@@ -202619,7 +202472,7 @@ return array (
       ),
     ),
   ),
-  835 => 
+  834 => 
   array (
     'code' => '4808',
     'name' => 'くまがや農協',
@@ -202710,7 +202563,7 @@ return array (
       ),
     ),
   ),
-  836 => 
+  835 => 
   array (
     'code' => '4820',
     'name' => '埼玉岡部農協',
@@ -202729,7 +202582,7 @@ return array (
       ),
     ),
   ),
-  837 => 
+  836 => 
   array (
     'code' => '4823',
     'name' => '花園農協',
@@ -202748,7 +202601,7 @@ return array (
       ),
     ),
   ),
-  838 => 
+  837 => 
   array (
     'code' => '4828',
     'name' => 'ほくさい農協',
@@ -202831,7 +202684,7 @@ return array (
       ),
     ),
   ),
-  839 => 
+  838 => 
   array (
     'code' => '4847',
     'name' => '越谷市農協',
@@ -202890,7 +202743,7 @@ return array (
       ),
     ),
   ),
-  840 => 
+  839 => 
   array (
     'code' => '4848',
     'name' => '南彩農協',
@@ -202973,7 +202826,7 @@ return array (
       ),
     ),
   ),
-  841 => 
+  840 => 
   array (
     'code' => '4859',
     'name' => '埼玉みずほ農協',
@@ -203056,7 +202909,7 @@ return array (
       ),
     ),
   ),
-  842 => 
+  841 => 
   array (
     'code' => '4864',
     'name' => 'さいかつ農協',
@@ -203139,7 +202992,7 @@ return array (
       ),
     ),
   ),
-  843 => 
+  842 => 
   array (
     'code' => '4874',
     'name' => 'ふかや農協',
@@ -203182,7 +203035,7 @@ return array (
       ),
     ),
   ),
-  844 => 
+  843 => 
   array (
     'code' => '4876',
     'name' => '安房農協',
@@ -203281,7 +203134,7 @@ return array (
       ),
     ),
   ),
-  845 => 
+  844 => 
   array (
     'code' => '4893',
     'name' => 'いすみ農協',
@@ -203348,7 +203201,7 @@ return array (
       ),
     ),
   ),
-  846 => 
+  845 => 
   array (
     'code' => '4902',
     'name' => '木更津市農協',
@@ -203399,7 +203252,7 @@ return array (
       ),
     ),
   ),
-  847 => 
+  846 => 
   array (
     'code' => '4909',
     'name' => '君津市農協',
@@ -203490,7 +203343,7 @@ return array (
       ),
     ),
   ),
-  848 => 
+  847 => 
   array (
     'code' => '4916',
     'name' => '長生農協',
@@ -203581,7 +203434,7 @@ return array (
       ),
     ),
   ),
-  849 => 
+  848 => 
   array (
     'code' => '4929',
     'name' => '山武郡市農協',
@@ -203696,7 +203549,7 @@ return array (
       ),
     ),
   ),
-  850 => 
+  849 => 
   array (
     'code' => '4949',
     'name' => '市原市農協',
@@ -203771,7 +203624,7 @@ return array (
       ),
     ),
   ),
-  851 => 
+  850 => 
   array (
     'code' => '4954',
     'name' => '千葉みらい農協',
@@ -203902,7 +203755,7 @@ return array (
       ),
     ),
   ),
-  852 => 
+  851 => 
   array (
     'code' => '4955',
     'name' => '八千代市農協',
@@ -203945,7 +203798,7 @@ return array (
       ),
     ),
   ),
-  853 => 
+  852 => 
   array (
     'code' => '4959',
     'name' => '市川市農協',
@@ -204060,7 +203913,7 @@ return array (
       ),
     ),
   ),
-  854 => 
+  853 => 
   array (
     'code' => '4965',
     'name' => 'とうかつ中央農協',
@@ -204183,7 +204036,7 @@ return array (
       ),
     ),
   ),
-  855 => 
+  854 => 
   array (
     'code' => '4975',
     'name' => 'ちば東葛農協',
@@ -204296,9 +204149,17 @@ return array (
         'hira' => 'とうぶ',
         'roma' => 'toubu',
       ),
+      13 => 
+      array (
+        'code' => '020',
+        'name' => '野田みずき出張所',
+        'kana' => 'ノダミズキ',
+        'hira' => 'のだみずき',
+        'roma' => 'nodamizuki',
+      ),
     ),
   ),
-  856 => 
+  855 => 
   array (
     'code' => '4992',
     'name' => '成田市農協',
@@ -204357,7 +204218,7 @@ return array (
       ),
     ),
   ),
-  857 => 
+  856 => 
   array (
     'code' => '4993',
     'name' => '富里市農協',
@@ -204376,7 +204237,7 @@ return array (
       ),
     ),
   ),
-  858 => 
+  857 => 
   array (
     'code' => '4996',
     'name' => '西印旛農協',
@@ -204411,7 +204272,7 @@ return array (
       ),
     ),
   ),
-  859 => 
+  858 => 
   array (
     'code' => '5000',
     'name' => 'かとり農協',
@@ -204502,7 +204363,7 @@ return array (
       ),
     ),
   ),
-  860 => 
+  859 => 
   array (
     'code' => '5016',
     'name' => 'ちばみどり農協',
@@ -204609,7 +204470,7 @@ return array (
       ),
     ),
   ),
-  861 => 
+  860 => 
   array (
     'code' => '5030',
     'name' => '西東京農協',
@@ -204684,7 +204545,7 @@ return array (
       ),
     ),
   ),
-  862 => 
+  861 => 
   array (
     'code' => '5037',
     'name' => '西多摩農協',
@@ -204735,7 +204596,7 @@ return array (
       ),
     ),
   ),
-  863 => 
+  862 => 
   array (
     'code' => '5039',
     'name' => '秋川農協',
@@ -204802,7 +204663,7 @@ return array (
       ),
     ),
   ),
-  864 => 
+  863 => 
   array (
     'code' => '5050',
     'name' => '八王子市農協',
@@ -204869,7 +204730,7 @@ return array (
       ),
     ),
   ),
-  865 => 
+  864 => 
   array (
     'code' => '5055',
     'name' => '東京南農協',
@@ -204920,7 +204781,7 @@ return array (
       ),
     ),
   ),
-  866 => 
+  865 => 
   array (
     'code' => '5060',
     'name' => '町田市農協',
@@ -205003,7 +204864,7 @@ return array (
       ),
     ),
   ),
-  867 => 
+  866 => 
   array (
     'code' => '5070',
     'name' => 'マインズ農協',
@@ -205126,7 +204987,7 @@ return array (
       ),
     ),
   ),
-  868 => 
+  867 => 
   array (
     'code' => '5072',
     'name' => '東京みどり農協',
@@ -205201,7 +205062,7 @@ return array (
       ),
     ),
   ),
-  869 => 
+  868 => 
   array (
     'code' => '5077',
     'name' => '東京みらい農協',
@@ -205276,7 +205137,7 @@ return array (
       ),
     ),
   ),
-  870 => 
+  869 => 
   array (
     'code' => '5087',
     'name' => '東京むさし農協',
@@ -205367,7 +205228,7 @@ return array (
       ),
     ),
   ),
-  871 => 
+  870 => 
   array (
     'code' => '5094',
     'name' => '東京中央農協',
@@ -205482,7 +205343,7 @@ return array (
       ),
     ),
   ),
-  872 => 
+  871 => 
   array (
     'code' => '5095',
     'name' => '世田谷目黒農協',
@@ -205501,7 +205362,7 @@ return array (
       ),
     ),
   ),
-  873 => 
+  872 => 
   array (
     'code' => '5097',
     'name' => '東京あおば農協',
@@ -205592,7 +205453,7 @@ return array (
       ),
     ),
   ),
-  874 => 
+  873 => 
   array (
     'code' => '5100',
     'name' => '東京スマイル農協',
@@ -205715,7 +205576,7 @@ return array (
       ),
     ),
   ),
-  875 => 
+  874 => 
   array (
     'code' => '5114',
     'name' => '横浜農協',
@@ -206134,7 +205995,7 @@ return array (
       ),
     ),
   ),
-  876 => 
+  875 => 
   array (
     'code' => '5123',
     'name' => 'セレサ川崎農協',
@@ -206449,7 +206310,7 @@ return array (
       ),
     ),
   ),
-  877 => 
+  876 => 
   array (
     'code' => '5128',
     'name' => 'よこすか葉山農協',
@@ -206524,7 +206385,7 @@ return array (
       ),
     ),
   ),
-  878 => 
+  877 => 
   array (
     'code' => '5130',
     'name' => '三浦市農協',
@@ -206543,7 +206404,7 @@ return array (
       ),
     ),
   ),
-  879 => 
+  878 => 
   array (
     'code' => '5131',
     'name' => 'さがみ農協',
@@ -206898,7 +206759,7 @@ return array (
       ),
     ),
   ),
-  880 => 
+  879 => 
   array (
     'code' => '5137',
     'name' => '湘南農協',
@@ -207069,7 +206930,7 @@ return array (
       ),
     ),
   ),
-  881 => 
+  880 => 
   array (
     'code' => '5140',
     'name' => '秦野市農協',
@@ -207144,7 +207005,7 @@ return array (
       ),
     ),
   ),
-  882 => 
+  881 => 
   array (
     'code' => '5147',
     'name' => 'かながわ西湘農協',
@@ -207371,7 +207232,7 @@ return array (
       ),
     ),
   ),
-  883 => 
+  882 => 
   array (
     'code' => '5152',
     'name' => '厚木市農協',
@@ -207494,7 +207355,7 @@ return array (
       ),
     ),
   ),
-  884 => 
+  883 => 
   array (
     'code' => '5153',
     'name' => '県央愛川農協',
@@ -207537,7 +207398,7 @@ return array (
       ),
     ),
   ),
-  885 => 
+  884 => 
   array (
     'code' => '5159',
     'name' => '相模原市農協',
@@ -207668,7 +207529,7 @@ return array (
       ),
     ),
   ),
-  886 => 
+  885 => 
   array (
     'code' => '5162',
     'name' => '神奈川つくい農協',
@@ -207735,7 +207596,7 @@ return array (
       ),
     ),
   ),
-  887 => 
+  886 => 
   array (
     'code' => '5169',
     'name' => 'フルーツ山梨農協',
@@ -207786,7 +207647,7 @@ return array (
       ),
     ),
   ),
-  888 => 
+  887 => 
   array (
     'code' => '5199',
     'name' => '笛吹農協',
@@ -207853,7 +207714,7 @@ return array (
       ),
     ),
   ),
-  889 => 
+  888 => 
   array (
     'code' => '5207',
     'name' => '山梨みらい農協',
@@ -207944,7 +207805,7 @@ return array (
       ),
     ),
   ),
-  890 => 
+  889 => 
   array (
     'code' => '5243',
     'name' => '南アルプス市農協',
@@ -207995,7 +207856,7 @@ return array (
       ),
     ),
   ),
-  891 => 
+  890 => 
   array (
     'code' => '5260',
     'name' => '梨北農協',
@@ -208038,7 +207899,7 @@ return array (
       ),
     ),
   ),
-  892 => 
+  891 => 
   array (
     'code' => '5272',
     'name' => 'クレイン農協',
@@ -208145,7 +208006,7 @@ return array (
       ),
     ),
   ),
-  893 => 
+  892 => 
   array (
     'code' => '5311',
     'name' => '長野八ヶ岳農協',
@@ -208212,7 +208073,7 @@ return array (
       ),
     ),
   ),
-  894 => 
+  893 => 
   array (
     'code' => '5330',
     'name' => '川上物産農協',
@@ -208231,7 +208092,7 @@ return array (
       ),
     ),
   ),
-  895 => 
+  894 => 
   array (
     'code' => '5335',
     'name' => '佐久浅間農協',
@@ -208338,7 +208199,7 @@ return array (
       ),
     ),
   ),
-  896 => 
+  895 => 
   array (
     'code' => '5348',
     'name' => '信州うえだ農協',
@@ -208421,7 +208282,7 @@ return array (
       ),
     ),
   ),
-  897 => 
+  896 => 
   array (
     'code' => '5372',
     'name' => '信州諏訪農協',
@@ -208512,7 +208373,7 @@ return array (
       ),
     ),
   ),
-  898 => 
+  897 => 
   array (
     'code' => '5384',
     'name' => '上伊那農協',
@@ -208651,7 +208512,7 @@ return array (
       ),
     ),
   ),
-  899 => 
+  898 => 
   array (
     'code' => '5405',
     'name' => 'みなみ信州農協',
@@ -208798,7 +208659,7 @@ return array (
       ),
     ),
   ),
-  900 => 
+  899 => 
   array (
     'code' => '5437',
     'name' => '下伊那園芸農協',
@@ -208817,7 +208678,7 @@ return array (
       ),
     ),
   ),
-  901 => 
+  900 => 
   array (
     'code' => '5441',
     'name' => '木曽農協',
@@ -208860,7 +208721,7 @@ return array (
       ),
     ),
   ),
-  902 => 
+  901 => 
   array (
     'code' => '5448',
     'name' => '松本ハイランド農協',
@@ -209055,7 +208916,7 @@ return array (
       ),
     ),
   ),
-  903 => 
+  902 => 
   array (
     'code' => '5462',
     'name' => '洗馬農協',
@@ -209074,7 +208935,7 @@ return array (
       ),
     ),
   ),
-  904 => 
+  903 => 
   array (
     'code' => '5466',
     'name' => 'あづみ農協',
@@ -209141,7 +209002,7 @@ return array (
       ),
     ),
   ),
-  905 => 
+  904 => 
   array (
     'code' => '5470',
     'name' => '大北農協',
@@ -209200,7 +209061,7 @@ return array (
       ),
     ),
   ),
-  906 => 
+  905 => 
   array (
     'code' => '5477',
     'name' => 'グリーン長野農協',
@@ -209379,7 +209240,7 @@ return array (
       ),
     ),
   ),
-  907 => 
+  906 => 
   array (
     'code' => '5491',
     'name' => '中野市農協',
@@ -209398,7 +209259,7 @@ return array (
       ),
     ),
   ),
-  908 => 
+  907 => 
   array (
     'code' => '5499',
     'name' => 'ながの農協',
@@ -209633,7 +209494,7 @@ return array (
       ),
     ),
   ),
-  909 => 
+  908 => 
   array (
     'code' => '5554',
     'name' => '北新潟農協',
@@ -209756,7 +209617,7 @@ return array (
       ),
     ),
   ),
-  910 => 
+  909 => 
   array (
     'code' => '5600',
     'name' => '新潟かがやき農協',
@@ -209991,7 +209852,7 @@ return array (
       ),
     ),
   ),
-  911 => 
+  910 => 
   array (
     'code' => '5666',
     'name' => 'えちご中越農協',
@@ -210186,7 +210047,7 @@ return array (
       ),
     ),
   ),
-  912 => 
+  911 => 
   array (
     'code' => '5707',
     'name' => 'みなみ魚沼農協',
@@ -210245,7 +210106,7 @@ return array (
       ),
     ),
   ),
-  913 => 
+  912 => 
   array (
     'code' => '5714',
     'name' => '魚沼農協',
@@ -210376,7 +210237,7 @@ return array (
       ),
     ),
   ),
-  914 => 
+  913 => 
   array (
     'code' => '5768',
     'name' => 'えちご上越農協',
@@ -210627,7 +210488,7 @@ return array (
       ),
     ),
   ),
-  915 => 
+  914 => 
   array (
     'code' => '5832',
     'name' => '佐渡農協',
@@ -210702,7 +210563,7 @@ return array (
       ),
     ),
   ),
-  916 => 
+  915 => 
   array (
     'code' => '5864',
     'name' => '新潟市農協',
@@ -210785,7 +210646,7 @@ return array (
       ),
     ),
   ),
-  917 => 
+  916 => 
   array (
     'code' => '5877',
     'name' => 'みな穂農協',
@@ -210836,7 +210697,7 @@ return array (
       ),
     ),
   ),
-  918 => 
+  917 => 
   array (
     'code' => '5883',
     'name' => '黒部市農協',
@@ -210855,7 +210716,7 @@ return array (
       ),
     ),
   ),
-  919 => 
+  918 => 
   array (
     'code' => '5885',
     'name' => '魚津市農協',
@@ -210906,7 +210767,7 @@ return array (
       ),
     ),
   ),
-  920 => 
+  919 => 
   array (
     'code' => '5888',
     'name' => 'アルプス農協',
@@ -210949,7 +210810,7 @@ return array (
       ),
     ),
   ),
-  921 => 
+  920 => 
   array (
     'code' => '5895',
     'name' => 'あおば農協',
@@ -211000,7 +210861,7 @@ return array (
       ),
     ),
   ),
-  922 => 
+  921 => 
   array (
     'code' => '5897',
     'name' => '富山市農協',
@@ -211035,7 +210896,7 @@ return array (
       ),
     ),
   ),
-  923 => 
+  922 => 
   array (
     'code' => '5898',
     'name' => 'なのはな農協',
@@ -211118,7 +210979,7 @@ return array (
       ),
     ),
   ),
-  924 => 
+  923 => 
   array (
     'code' => '5911',
     'name' => 'いみず野農協',
@@ -211209,7 +211070,7 @@ return array (
       ),
     ),
   ),
-  925 => 
+  924 => 
   array (
     'code' => '5916',
     'name' => '高岡市農協',
@@ -211292,7 +211153,7 @@ return array (
       ),
     ),
   ),
-  926 => 
+  925 => 
   array (
     'code' => '5920',
     'name' => '氷見市農協',
@@ -211320,10 +211181,10 @@ return array (
       2 => 
       array (
         'code' => '556',
-        'name' => '窪',
-        'kana' => 'クボ',
-        'hira' => 'くぼ',
-        'roma' => 'kubo',
+        'name' => '西條',
+        'kana' => 'サイジヨウ',
+        'hira' => 'さいじよう',
+        'roma' => 'saijiyou',
       ),
       3 => 
       array (
@@ -211344,14 +211205,14 @@ return array (
       5 => 
       array (
         'code' => '570',
-        'name' => '阿尾',
-        'kana' => 'アオ',
-        'hira' => 'あお',
-        'roma' => 'ao',
+        'name' => '北部',
+        'kana' => 'ホクブ',
+        'hira' => 'ほくぶ',
+        'roma' => 'hokubu',
       ),
     ),
   ),
-  927 => 
+  926 => 
   array (
     'code' => '5921',
     'name' => 'となみ野農協',
@@ -211426,7 +211287,7 @@ return array (
       ),
     ),
   ),
-  928 => 
+  927 => 
   array (
     'code' => '5927',
     'name' => 'なんと農協',
@@ -211461,7 +211322,7 @@ return array (
       ),
     ),
   ),
-  929 => 
+  928 => 
   array (
     'code' => '5932',
     'name' => 'いなば農協',
@@ -211512,7 +211373,7 @@ return array (
       ),
     ),
   ),
-  930 => 
+  929 => 
   array (
     'code' => '5935',
     'name' => '福光農協',
@@ -211531,7 +211392,7 @@ return array (
       ),
     ),
   ),
-  931 => 
+  930 => 
   array (
     'code' => '5943',
     'name' => '加賀農協',
@@ -211598,7 +211459,7 @@ return array (
       ),
     ),
   ),
-  932 => 
+  931 => 
   array (
     'code' => '5962',
     'name' => '小松市農協',
@@ -211697,7 +211558,7 @@ return array (
       ),
     ),
   ),
-  933 => 
+  932 => 
   array (
     'code' => '5980',
     'name' => '根上農協',
@@ -211716,7 +211577,7 @@ return array (
       ),
     ),
   ),
-  934 => 
+  933 => 
   array (
     'code' => '5982',
     'name' => '能美農協',
@@ -211767,7 +211628,7 @@ return array (
       ),
     ),
   ),
-  935 => 
+  934 => 
   array (
     'code' => '5997',
     'name' => '松任市農協',
@@ -211818,7 +211679,7 @@ return array (
       ),
     ),
   ),
-  936 => 
+  935 => 
   array (
     'code' => '6010',
     'name' => '野々市農協',
@@ -211845,7 +211706,7 @@ return array (
       ),
     ),
   ),
-  937 => 
+  936 => 
   array (
     'code' => '6012',
     'name' => '白山農協',
@@ -211904,7 +211765,7 @@ return array (
       ),
     ),
   ),
-  938 => 
+  937 => 
   array (
     'code' => '6024',
     'name' => '金沢中央農協',
@@ -211971,7 +211832,7 @@ return array (
       ),
     ),
   ),
-  939 => 
+  938 => 
   array (
     'code' => '6025',
     'name' => '金沢市農協',
@@ -212070,7 +211931,7 @@ return array (
       ),
     ),
   ),
-  940 => 
+  939 => 
   array (
     'code' => '6062',
     'name' => '石川かほく農協',
@@ -212129,7 +211990,7 @@ return array (
       ),
     ),
   ),
-  941 => 
+  940 => 
   array (
     'code' => '6076',
     'name' => 'はくい農協',
@@ -212164,7 +212025,7 @@ return array (
       ),
     ),
   ),
-  942 => 
+  941 => 
   array (
     'code' => '6084',
     'name' => '志賀農協',
@@ -212199,7 +212060,7 @@ return array (
       ),
     ),
   ),
-  943 => 
+  942 => 
   array (
     'code' => '6094',
     'name' => '能登わかば農協',
@@ -212242,7 +212103,7 @@ return array (
       ),
     ),
   ),
-  944 => 
+  943 => 
   array (
     'code' => '6113',
     'name' => '能登農協',
@@ -212317,7 +212178,7 @@ return array (
       ),
     ),
   ),
-  945 => 
+  944 => 
   array (
     'code' => '6121',
     'name' => '内浦町農協',
@@ -212336,7 +212197,7 @@ return array (
       ),
     ),
   ),
-  946 => 
+  945 => 
   array (
     'code' => '6129',
     'name' => 'ぎふ農協',
@@ -212675,7 +212536,7 @@ return array (
       ),
     ),
   ),
-  947 => 
+  946 => 
   array (
     'code' => '6175',
     'name' => '西美濃農協',
@@ -212910,7 +212771,7 @@ return array (
       ),
     ),
   ),
-  948 => 
+  947 => 
   array (
     'code' => '6198',
     'name' => 'いび川農協',
@@ -213009,7 +212870,7 @@ return array (
       ),
     ),
   ),
-  949 => 
+  948 => 
   array (
     'code' => '6242',
     'name' => 'めぐみの農協',
@@ -213388,7 +213249,7 @@ return array (
       ),
     ),
   ),
-  950 => 
+  949 => 
   array (
     'code' => '6265',
     'name' => '陶都信用農協',
@@ -213607,7 +213468,7 @@ return array (
       ),
     ),
   ),
-  951 => 
+  950 => 
   array (
     'code' => '6287',
     'name' => '東美濃農協',
@@ -213762,7 +213623,7 @@ return array (
       ),
     ),
   ),
-  952 => 
+  951 => 
   array (
     'code' => '6313',
     'name' => '飛騨農協',
@@ -214021,7 +213882,7 @@ return array (
       ),
     ),
   ),
-  953 => 
+  952 => 
   array (
     'code' => '6345',
     'name' => '富士伊豆農協',
@@ -214880,7 +214741,7 @@ return array (
       ),
     ),
   ),
-  954 => 
+  953 => 
   array (
     'code' => '6363',
     'name' => '清水農協',
@@ -215011,7 +214872,7 @@ return array (
       ),
     ),
   ),
-  955 => 
+  954 => 
   array (
     'code' => '6373',
     'name' => '静岡市農協',
@@ -215166,7 +215027,7 @@ return array (
       ),
     ),
   ),
-  956 => 
+  955 => 
   array (
     'code' => '6377',
     'name' => '大井川農協',
@@ -215385,7 +215246,7 @@ return array (
       ),
     ),
   ),
-  957 => 
+  956 => 
   array (
     'code' => '6382',
     'name' => 'ハイナン農協',
@@ -215468,7 +215329,7 @@ return array (
       ),
     ),
   ),
-  958 => 
+  957 => 
   array (
     'code' => '6386',
     'name' => '掛川市農協',
@@ -215527,7 +215388,7 @@ return array (
       ),
     ),
   ),
-  959 => 
+  958 => 
   array (
     'code' => '6387',
     'name' => '遠州夢咲農協',
@@ -215618,7 +215479,7 @@ return array (
       ),
     ),
   ),
-  960 => 
+  959 => 
   array (
     'code' => '6391',
     'name' => '遠州中央農協',
@@ -215837,7 +215698,7 @@ return array (
       ),
     ),
   ),
-  961 => 
+  960 => 
   array (
     'code' => '6403',
     'name' => 'とぴあ浜松農協',
@@ -216336,7 +216197,7 @@ return array (
       ),
     ),
   ),
-  962 => 
+  961 => 
   array (
     'code' => '6423',
     'name' => '三ヶ日町農協',
@@ -216363,7 +216224,7 @@ return array (
       ),
     ),
   ),
-  963 => 
+  962 => 
   array (
     'code' => '6430',
     'name' => 'なごや農協',
@@ -216606,7 +216467,7 @@ return array (
       ),
     ),
   ),
-  964 => 
+  963 => 
   array (
     'code' => '6436',
     'name' => '天白信用農協',
@@ -216657,7 +216518,7 @@ return array (
       ),
     ),
   ),
-  965 => 
+  964 => 
   array (
     'code' => '6443',
     'name' => '緑信用農協',
@@ -216692,7 +216553,7 @@ return array (
       ),
     ),
   ),
-  966 => 
+  965 => 
   array (
     'code' => '6451',
     'name' => '尾張中央農協',
@@ -216831,7 +216692,7 @@ return array (
       ),
     ),
   ),
-  967 => 
+  966 => 
   array (
     'code' => '6456',
     'name' => '西春日井農協',
@@ -216922,7 +216783,7 @@ return array (
       ),
     ),
   ),
-  968 => 
+  967 => 
   array (
     'code' => '6466',
     'name' => 'あいち尾東農協',
@@ -217077,7 +216938,7 @@ return array (
       ),
     ),
   ),
-  969 => 
+  968 => 
   array (
     'code' => '6470',
     'name' => '愛知北農協',
@@ -217208,7 +217069,7 @@ return array (
       ),
     ),
   ),
-  970 => 
+  969 => 
   array (
     'code' => '6483',
     'name' => '愛知西農協',
@@ -217435,7 +217296,7 @@ return array (
       ),
     ),
   ),
-  971 => 
+  970 => 
   array (
     'code' => '6514',
     'name' => 'あいち海部農協',
@@ -217606,7 +217467,7 @@ return array (
       ),
     ),
   ),
-  972 => 
+  971 => 
   array (
     'code' => '6531',
     'name' => 'あいち知多農協',
@@ -217993,7 +217854,7 @@ return array (
       ),
     ),
   ),
-  973 => 
+  972 => 
   array (
     'code' => '6552',
     'name' => 'あいち中央農協',
@@ -218244,7 +218105,7 @@ return array (
       ),
     ),
   ),
-  974 => 
+  973 => 
   array (
     'code' => '6560',
     'name' => '西三河農協',
@@ -218399,7 +218260,7 @@ return array (
       ),
     ),
   ),
-  975 => 
+  974 => 
   array (
     'code' => '6572',
     'name' => 'あいち三河農協',
@@ -218594,7 +218455,7 @@ return array (
       ),
     ),
   ),
-  976 => 
+  975 => 
   array (
     'code' => '6582',
     'name' => 'あいち豊田農協',
@@ -218845,7 +218706,7 @@ return array (
       ),
     ),
   ),
-  977 => 
+  976 => 
   array (
     'code' => '6591',
     'name' => '愛知東農協',
@@ -218936,7 +218797,7 @@ return array (
       ),
     ),
   ),
-  978 => 
+  977 => 
   array (
     'code' => '6606',
     'name' => '蒲郡市農協',
@@ -219011,7 +218872,7 @@ return array (
       ),
     ),
   ),
-  979 => 
+  978 => 
   array (
     'code' => '6612',
     'name' => 'ひまわり農協',
@@ -219110,7 +218971,7 @@ return array (
       ),
     ),
   ),
-  980 => 
+  979 => 
   array (
     'code' => '6615',
     'name' => '愛知みなみ農協',
@@ -219193,7 +219054,7 @@ return array (
       ),
     ),
   ),
-  981 => 
+  980 => 
   array (
     'code' => '6618',
     'name' => '豊橋農協',
@@ -219316,7 +219177,7 @@ return array (
       ),
     ),
   ),
-  982 => 
+  981 => 
   array (
     'code' => '6649',
     'name' => '三重北農協',
@@ -219751,7 +219612,7 @@ return array (
       ),
     ),
   ),
-  983 => 
+  982 => 
   array (
     'code' => '6665',
     'name' => '鈴鹿農協',
@@ -220010,7 +219871,7 @@ return array (
       ),
     ),
   ),
-  984 => 
+  983 => 
   array (
     'code' => '6673',
     'name' => '津安芸農協',
@@ -220101,7 +219962,7 @@ return array (
       ),
     ),
   ),
-  985 => 
+  984 => 
   array (
     'code' => '6677',
     'name' => 'みえなか農協',
@@ -220264,7 +220125,7 @@ return array (
       ),
     ),
   ),
-  986 => 
+  985 => 
   array (
     'code' => '6697',
     'name' => '多気郡農協',
@@ -220331,7 +220192,7 @@ return array (
       ),
     ),
   ),
-  987 => 
+  986 => 
   array (
     'code' => '6731',
     'name' => '伊勢農協',
@@ -220534,7 +220395,7 @@ return array (
       ),
     ),
   ),
-  988 => 
+  987 => 
   array (
     'code' => '6758',
     'name' => '伊賀ふるさと農協',
@@ -220633,7 +220494,7 @@ return array (
       ),
     ),
   ),
-  989 => 
+  988 => 
   array (
     'code' => '6785',
     'name' => '福井県農協',
@@ -220924,7 +220785,7 @@ return array (
       ),
     ),
   ),
-  990 => 
+  989 => 
   array (
     'code' => '6853',
     'name' => '越前たけふ農協',
@@ -220975,7 +220836,7 @@ return array (
       ),
     ),
   ),
-  991 => 
+  990 => 
   array (
     'code' => '6874',
     'name' => 'レーク滋賀農協',
@@ -221266,7 +221127,7 @@ return array (
       ),
     ),
   ),
-  992 => 
+  991 => 
   array (
     'code' => '6889',
     'name' => '甲賀農協',
@@ -221349,7 +221210,7 @@ return array (
       ),
     ),
   ),
-  993 => 
+  992 => 
   array (
     'code' => '6897',
     'name' => 'グリーン近江農協',
@@ -221488,7 +221349,7 @@ return array (
       ),
     ),
   ),
-  994 => 
+  993 => 
   array (
     'code' => '6900',
     'name' => '滋賀蒲生町農協',
@@ -221507,7 +221368,7 @@ return array (
       ),
     ),
   ),
-  995 => 
+  994 => 
   array (
     'code' => '6909',
     'name' => '東能登川農協',
@@ -221526,7 +221387,7 @@ return array (
       ),
     ),
   ),
-  996 => 
+  995 => 
   array (
     'code' => '6911',
     'name' => '湖東農協',
@@ -221561,7 +221422,7 @@ return array (
       ),
     ),
   ),
-  997 => 
+  996 => 
   array (
     'code' => '6912',
     'name' => '東びわこ農協',
@@ -221692,7 +221553,7 @@ return array (
       ),
     ),
   ),
-  998 => 
+  997 => 
   array (
     'code' => '6919',
     'name' => 'レーク伊吹農協',
@@ -221775,7 +221636,7 @@ return array (
       ),
     ),
   ),
-  999 => 
+  998 => 
   array (
     'code' => '6924',
     'name' => '北びわこ農協',
@@ -221858,7 +221719,7 @@ return array (
       ),
     ),
   ),
-  1000 => 
+  999 => 
   array (
     'code' => '6941',
     'name' => '京都市農協',
@@ -221989,7 +221850,7 @@ return array (
       ),
     ),
   ),
-  1001 => 
+  1000 => 
   array (
     'code' => '6956',
     'name' => '京都中央農協',
@@ -222120,7 +221981,7 @@ return array (
       ),
     ),
   ),
-  1002 => 
+  1001 => 
   array (
     'code' => '6961',
     'name' => '京都やましろ農協',
@@ -222267,7 +222128,7 @@ return array (
       ),
     ),
   ),
-  1003 => 
+  1002 => 
   array (
     'code' => '6990',
     'name' => '京都農協',
@@ -222359,36 +222220,20 @@ return array (
       10 => 
       array (
         'code' => '016',
-        'name' => '亀岡中央',
-        'kana' => 'カメオカチユウオウ',
-        'hira' => 'かめおかちゆうおう',
-        'roma' => 'kameokachiyuuou',
+        'name' => '亀岡中央保津',
+        'kana' => 'カメオカチユウオウホヅ',
+        'hira' => 'かめおかちゆうおうほづ',
+        'roma' => 'kameokachiyuuouhodu',
       ),
       11 => 
       array (
-        'code' => '019',
-        'name' => '亀岡西部',
-        'kana' => 'カメオカセイブ',
-        'hira' => 'かめおかせいぶ',
-        'roma' => 'kameokaseibu',
+        'code' => '020',
+        'name' => '亀岡大井西部',
+        'kana' => 'カメオカオオイセイブ',
+        'hira' => 'かめおかおおいせいぶ',
+        'roma' => 'kameokaooiseibu',
       ),
       12 => 
-      array (
-        'code' => '020',
-        'name' => '亀岡大井',
-        'kana' => 'カメオカオオイ',
-        'hira' => 'かめおかおおい',
-        'roma' => 'kameokaooi',
-      ),
-      13 => 
-      array (
-        'code' => '022',
-        'name' => '保津',
-        'kana' => 'ホヅ',
-        'hira' => 'ほづ',
-        'roma' => 'hodu',
-      ),
-      14 => 
       array (
         'code' => '023',
         'name' => '亀岡中部',
@@ -222396,7 +222241,7 @@ return array (
         'hira' => 'かめおかちゆうぶ',
         'roma' => 'kameokachiyuubu',
       ),
-      15 => 
+      13 => 
       array (
         'code' => '024',
         'name' => '亀岡川東',
@@ -222404,7 +222249,7 @@ return array (
         'hira' => 'かめおかかわひがし',
         'roma' => 'kameokakawahigashi',
       ),
-      16 => 
+      14 => 
       array (
         'code' => '025',
         'name' => '篠',
@@ -222412,7 +222257,7 @@ return array (
         'hira' => 'しの',
         'roma' => 'shino',
       ),
-      17 => 
+      15 => 
       array (
         'code' => '029',
         'name' => '与謝野',
@@ -222420,15 +222265,7 @@ return array (
         'hira' => 'よさの',
         'roma' => 'yosano',
       ),
-      18 => 
-      array (
-        'code' => '030',
-        'name' => '伊根',
-        'kana' => 'イネ',
-        'hira' => 'いね',
-        'roma' => 'ine',
-      ),
-      19 => 
+      16 => 
       array (
         'code' => '031',
         'name' => '峰山',
@@ -222436,7 +222273,7 @@ return array (
         'hira' => 'みねやま',
         'roma' => 'mineyama',
       ),
-      20 => 
+      17 => 
       array (
         'code' => '033',
         'name' => '大宮',
@@ -222444,7 +222281,7 @@ return array (
         'hira' => 'おおみや',
         'roma' => 'oomiya',
       ),
-      21 => 
+      18 => 
       array (
         'code' => '034',
         'name' => '網野',
@@ -222452,7 +222289,7 @@ return array (
         'hira' => 'あみの',
         'roma' => 'amino',
       ),
-      22 => 
+      19 => 
       array (
         'code' => '036',
         'name' => '弥栄',
@@ -222460,7 +222297,7 @@ return array (
         'hira' => 'やさか',
         'roma' => 'yasaka',
       ),
-      23 => 
+      20 => 
       array (
         'code' => '037',
         'name' => '間人',
@@ -222468,7 +222305,7 @@ return array (
         'hira' => 'たいざ',
         'roma' => 'taiza',
       ),
-      24 => 
+      21 => 
       array (
         'code' => '039',
         'name' => '久美浜',
@@ -222476,7 +222313,7 @@ return array (
         'hira' => 'くみはま',
         'roma' => 'kumihama',
       ),
-      25 => 
+      22 => 
       array (
         'code' => '043',
         'name' => '宮津',
@@ -222484,15 +222321,15 @@ return array (
         'hira' => 'みやづ',
         'roma' => 'miyadu',
       ),
-      26 => 
+      23 => 
       array (
         'code' => '045',
-        'name' => '宮津府中',
-        'kana' => 'ミヤヅフチユウ',
-        'hira' => 'みやづふちゆう',
-        'roma' => 'miyadufuchiyuu',
+        'name' => '宮津府中伊根',
+        'kana' => 'ミヤヅフチユウイネ',
+        'hira' => 'みやづふちゆういね',
+        'roma' => 'miyadufuchiyuuine',
       ),
-      27 => 
+      24 => 
       array (
         'code' => '047',
         'name' => '福知山東部',
@@ -222502,7 +222339,7 @@ return array (
       ),
     ),
   ),
-  1004 => 
+  1003 => 
   array (
     'code' => '6996',
     'name' => '京都丹の国農協',
@@ -222625,7 +222462,7 @@ return array (
       ),
     ),
   ),
-  1005 => 
+  1004 => 
   array (
     'code' => '7025',
     'name' => '北大阪農協',
@@ -222676,7 +222513,7 @@ return array (
       ),
     ),
   ),
-  1006 => 
+  1005 => 
   array (
     'code' => '7029',
     'name' => '高槻市農協',
@@ -222831,7 +222668,7 @@ return array (
       ),
     ),
   ),
-  1007 => 
+  1006 => 
   array (
     'code' => '7032',
     'name' => '茨木市農協',
@@ -222882,7 +222719,7 @@ return array (
       ),
     ),
   ),
-  1008 => 
+  1007 => 
   array (
     'code' => '7041',
     'name' => '大阪北部農協',
@@ -223013,7 +222850,7 @@ return array (
       ),
     ),
   ),
-  1009 => 
+  1008 => 
   array (
     'code' => '7087',
     'name' => '大阪泉州農協',
@@ -223112,7 +222949,7 @@ return array (
       ),
     ),
   ),
-  1010 => 
+  1009 => 
   array (
     'code' => '7092',
     'name' => 'いずみの農協',
@@ -223307,7 +223144,7 @@ return array (
       ),
     ),
   ),
-  1011 => 
+  1010 => 
   array (
     'code' => '7111',
     'name' => '堺市農協',
@@ -223438,7 +223275,7 @@ return array (
       ),
     ),
   ),
-  1012 => 
+  1011 => 
   array (
     'code' => '7139',
     'name' => '大阪南農協',
@@ -223689,7 +223526,7 @@ return array (
       ),
     ),
   ),
-  1013 => 
+  1012 => 
   array (
     'code' => '7156',
     'name' => 'グリーン大阪農協',
@@ -223804,7 +223641,7 @@ return array (
       ),
     ),
   ),
-  1014 => 
+  1013 => 
   array (
     'code' => '7164',
     'name' => '大阪中河内農協',
@@ -224031,7 +223868,7 @@ return array (
       ),
     ),
   ),
-  1015 => 
+  1014 => 
   array (
     'code' => '7184',
     'name' => '大阪東部農協',
@@ -224090,7 +223927,7 @@ return array (
       ),
     ),
   ),
-  1016 => 
+  1015 => 
   array (
     'code' => '7191',
     'name' => '九個荘農協',
@@ -224117,7 +223954,7 @@ return array (
       ),
     ),
   ),
-  1017 => 
+  1016 => 
   array (
     'code' => '7193',
     'name' => '北河内農協',
@@ -224344,7 +224181,7 @@ return array (
       ),
     ),
   ),
-  1018 => 
+  1017 => 
   array (
     'code' => '7200',
     'name' => '大阪市農協',
@@ -224435,7 +224272,7 @@ return array (
       ),
     ),
   ),
-  1019 => 
+  1018 => 
   array (
     'code' => '7213',
     'name' => '兵庫六甲農協',
@@ -224910,7 +224747,7 @@ return array (
       ),
     ),
   ),
-  1020 => 
+  1019 => 
   array (
     'code' => '7239',
     'name' => 'あかし農協',
@@ -224969,7 +224806,7 @@ return array (
       ),
     ),
   ),
-  1021 => 
+  1020 => 
   array (
     'code' => '7240',
     'name' => '兵庫南農協',
@@ -225108,7 +224945,7 @@ return array (
       ),
     ),
   ),
-  1022 => 
+  1021 => 
   array (
     'code' => '7249',
     'name' => 'みのり農協',
@@ -225207,7 +225044,7 @@ return array (
       ),
     ),
   ),
-  1023 => 
+  1022 => 
   array (
     'code' => '7264',
     'name' => '兵庫みらい農協',
@@ -225338,7 +225175,7 @@ return array (
       ),
     ),
   ),
-  1024 => 
+  1023 => 
   array (
     'code' => '7274',
     'name' => '加古川市南農協',
@@ -225405,7 +225242,7 @@ return array (
       ),
     ),
   ),
-  1025 => 
+  1024 => 
   array (
     'code' => '7288',
     'name' => '兵庫西農協',
@@ -225920,7 +225757,7 @@ return array (
       ),
     ),
   ),
-  1026 => 
+  1025 => 
   array (
     'code' => '7316',
     'name' => '相生市農協',
@@ -225939,7 +225776,7 @@ return array (
       ),
     ),
   ),
-  1027 => 
+  1026 => 
   array (
     'code' => '7326',
     'name' => 'ハリマ農協',
@@ -225982,7 +225819,7 @@ return array (
       ),
     ),
   ),
-  1028 => 
+  1027 => 
   array (
     'code' => '7338',
     'name' => 'たじま農協',
@@ -226169,7 +226006,7 @@ return array (
       ),
     ),
   ),
-  1029 => 
+  1028 => 
   array (
     'code' => '7353',
     'name' => '丹波ひかみ農協',
@@ -226236,7 +226073,7 @@ return array (
       ),
     ),
   ),
-  1030 => 
+  1029 => 
   array (
     'code' => '7362',
     'name' => '丹波ささやま農協',
@@ -226303,7 +226140,7 @@ return array (
       ),
     ),
   ),
-  1031 => 
+  1030 => 
   array (
     'code' => '7363',
     'name' => '淡路日の出農協',
@@ -226370,7 +226207,7 @@ return array (
       ),
     ),
   ),
-  1032 => 
+  1031 => 
   array (
     'code' => '7373',
     'name' => 'あわじ島農協',
@@ -226445,7 +226282,7 @@ return array (
       ),
     ),
   ),
-  1033 => 
+  1032 => 
   array (
     'code' => '7387',
     'name' => '奈良県農協',
@@ -227024,7 +226861,7 @@ return array (
       ),
     ),
   ),
-  1034 => 
+  1033 => 
   array (
     'code' => '7532',
     'name' => '和歌山県農協',
@@ -227707,7 +227544,7 @@ return array (
       ),
     ),
   ),
-  1035 => 
+  1034 => 
   array (
     'code' => '7541',
     'name' => 'ながみね農協',
@@ -227758,7 +227595,7 @@ return array (
       ),
     ),
   ),
-  1036 => 
+  1035 => 
   array (
     'code' => '7543',
     'name' => '紀の里農協',
@@ -227825,7 +227662,7 @@ return array (
       ),
     ),
   ),
-  1037 => 
+  1036 => 
   array (
     'code' => '7550',
     'name' => '紀北川上農協',
@@ -227916,7 +227753,7 @@ return array (
       ),
     ),
   ),
-  1038 => 
+  1037 => 
   array (
     'code' => '7559',
     'name' => 'ありだ農協',
@@ -227991,7 +227828,7 @@ return array (
       ),
     ),
   ),
-  1039 => 
+  1038 => 
   array (
     'code' => '7565',
     'name' => '紀州農協',
@@ -228106,7 +227943,7 @@ return array (
       ),
     ),
   ),
-  1040 => 
+  1039 => 
   array (
     'code' => '7576',
     'name' => '紀南農協',
@@ -228253,7 +228090,7 @@ return array (
       ),
     ),
   ),
-  1041 => 
+  1040 => 
   array (
     'code' => '7591',
     'name' => 'みくまの農協',
@@ -228312,7 +228149,7 @@ return array (
       ),
     ),
   ),
-  1042 => 
+  1041 => 
   array (
     'code' => '7601',
     'name' => '鳥取いなば農協',
@@ -228539,7 +228376,7 @@ return array (
       ),
     ),
   ),
-  1043 => 
+  1042 => 
   array (
     'code' => '7625',
     'name' => '鳥取中央農協',
@@ -228686,7 +228523,7 @@ return array (
       ),
     ),
   ),
-  1044 => 
+  1043 => 
   array (
     'code' => '7641',
     'name' => '鳥取西部農協',
@@ -228961,7 +228798,7 @@ return array (
       ),
     ),
   ),
-  1045 => 
+  1044 => 
   array (
     'code' => '7708',
     'name' => '島根県農協',
@@ -229684,7 +229521,7 @@ return array (
       ),
     ),
   ),
-  1046 => 
+  1045 => 
   array (
     'code' => '7755',
     'name' => '岡山市農協',
@@ -230015,7 +229852,7 @@ return array (
       ),
     ),
   ),
-  1047 => 
+  1046 => 
   array (
     'code' => '7837',
     'name' => '晴れの国岡山農協',
@@ -230682,7 +230519,7 @@ return array (
       ),
     ),
   ),
-  1048 => 
+  1047 => 
   array (
     'code' => '7909',
     'name' => '広島市農協',
@@ -230941,13 +230778,37 @@ return array (
       ),
       31 => 
       array (
+        'code' => '473',
+        'name' => '内浦',
+        'kana' => 'ウチウラ',
+        'hira' => 'うちうら',
+        'roma' => 'uchiura',
+      ),
+      32 => 
+      array (
+        'code' => '478',
+        'name' => '大長',
+        'kana' => 'オオチヨウ',
+        'hira' => 'おおちよう',
+        'roma' => 'oochiyou',
+      ),
+      33 => 
+      array (
+        'code' => '818',
+        'name' => '中野',
+        'kana' => 'ナカノ',
+        'hira' => 'なかの',
+        'roma' => 'nakano',
+      ),
+      34 => 
+      array (
         'code' => '824',
         'name' => '中筋',
         'kana' => 'ナカスジ',
         'hira' => 'なかすじ',
         'roma' => 'nakasuji',
       ),
-      32 => 
+      35 => 
       array (
         'code' => '831',
         'name' => '大手町',
@@ -230957,7 +230818,7 @@ return array (
       ),
     ),
   ),
-  1049 => 
+  1048 => 
   array (
     'code' => '7994',
     'name' => 'ひろしま農協',
@@ -231704,42 +231565,7 @@ return array (
       ),
     ),
   ),
-  1050 => 
-  array (
-    'code' => '8019',
-    'name' => '広島ゆたか農協',
-    'kana' => 'ヒロシマユタカノウキヨウ',
-    'hira' => 'ひろしまゆたかのうきよう',
-    'roma' => 'hiroshimayutakanoukiyou',
-    'branches' => 
-    array (
-      0 => 
-      array (
-        'code' => '473',
-        'name' => '内浦',
-        'kana' => 'ウチウラ',
-        'hira' => 'うちうら',
-        'roma' => 'uchiura',
-      ),
-      1 => 
-      array (
-        'code' => '478',
-        'name' => '本所',
-        'kana' => 'ホンシヨ',
-        'hira' => 'ほんしよ',
-        'roma' => 'honshiyo',
-      ),
-      2 => 
-      array (
-        'code' => '818',
-        'name' => '中野',
-        'kana' => 'ナカノ',
-        'hira' => 'なかの',
-        'roma' => 'nakano',
-      ),
-    ),
-  ),
-  1051 => 
+  1049 => 
   array (
     'code' => '8029',
     'name' => '尾道市農協',
@@ -231862,7 +231688,7 @@ return array (
       ),
     ),
   ),
-  1052 => 
+  1050 => 
   array (
     'code' => '8047',
     'name' => '福山市農協',
@@ -232265,7 +232091,7 @@ return array (
       ),
     ),
   ),
-  1053 => 
+  1051 => 
   array (
     'code' => '8134',
     'name' => '山口県農協',
@@ -232884,21 +232710,13 @@ return array (
       ),
       76 => 
       array (
-        'code' => '548',
-        'name' => '小野出張所',
-        'kana' => 'オノ',
-        'hira' => 'おの',
-        'roma' => 'ono',
-      ),
-      77 => 
-      array (
         'code' => '549',
         'name' => '楠',
         'kana' => 'クスノキ',
         'hira' => 'くすのき',
         'roma' => 'kusunoki',
       ),
-      78 => 
+      77 => 
       array (
         'code' => '550',
         'name' => '高千帆',
@@ -232906,15 +232724,7 @@ return array (
         'hira' => 'たかちほ',
         'roma' => 'takachiho',
       ),
-      79 => 
-      array (
-        'code' => '551',
-        'name' => '小野田出張所',
-        'kana' => 'オノダ',
-        'hira' => 'おのだ',
-        'roma' => 'onoda',
-      ),
-      80 => 
+      78 => 
       array (
         'code' => '552',
         'name' => '厚狭',
@@ -232922,15 +232732,7 @@ return array (
         'hira' => 'あさ',
         'roma' => 'asa',
       ),
-      81 => 
-      array (
-        'code' => '553',
-        'name' => '埴生出張所',
-        'kana' => 'ハブ',
-        'hira' => 'はぶ',
-        'roma' => 'habu',
-      ),
-      82 => 
+      79 => 
       array (
         'code' => '611',
         'name' => '下関統括本部',
@@ -232938,7 +232740,7 @@ return array (
         'hira' => 'しものせきとうかつほんぶ',
         'roma' => 'shimonosekitoukatsuhombu',
       ),
-      83 => 
+      80 => 
       array (
         'code' => '612',
         'name' => '王喜',
@@ -232946,7 +232748,7 @@ return array (
         'hira' => 'おおき',
         'roma' => 'ooki',
       ),
-      84 => 
+      81 => 
       array (
         'code' => '613',
         'name' => '清末',
@@ -232954,7 +232756,7 @@ return array (
         'hira' => 'きよすえ',
         'roma' => 'kiyosue',
       ),
-      85 => 
+      82 => 
       array (
         'code' => '614',
         'name' => '王司',
@@ -232962,7 +232764,7 @@ return array (
         'hira' => 'おうじ',
         'roma' => 'ouji',
       ),
-      86 => 
+      83 => 
       array (
         'code' => '615',
         'name' => '長府',
@@ -232970,7 +232772,7 @@ return array (
         'hira' => 'ちようふ',
         'roma' => 'chiyoufu',
       ),
-      87 => 
+      84 => 
       array (
         'code' => '616',
         'name' => '勝山',
@@ -232978,7 +232780,7 @@ return array (
         'hira' => 'かつやま',
         'roma' => 'katsuyama',
       ),
-      88 => 
+      85 => 
       array (
         'code' => '617',
         'name' => '川中',
@@ -232986,7 +232788,7 @@ return array (
         'hira' => 'かわなか',
         'roma' => 'kawanaka',
       ),
-      89 => 
+      86 => 
       array (
         'code' => '618',
         'name' => '吉見',
@@ -232994,7 +232796,7 @@ return array (
         'hira' => 'よしみ',
         'roma' => 'yoshimi',
       ),
-      90 => 
+      87 => 
       array (
         'code' => '619',
         'name' => '幡生',
@@ -233002,7 +232804,7 @@ return array (
         'hira' => 'はたぶ',
         'roma' => 'hatabu',
       ),
-      91 => 
+      88 => 
       array (
         'code' => '620',
         'name' => '彦島',
@@ -233010,7 +232812,7 @@ return array (
         'hira' => 'ひこしま',
         'roma' => 'hikoshima',
       ),
-      92 => 
+      89 => 
       array (
         'code' => '621',
         'name' => '安岡',
@@ -233018,7 +232820,7 @@ return array (
         'hira' => 'やすおか',
         'roma' => 'yasuoka',
       ),
-      93 => 
+      90 => 
       array (
         'code' => '622',
         'name' => '菊川町',
@@ -233026,7 +232828,7 @@ return array (
         'hira' => 'きくがわちよう',
         'roma' => 'kikugawachiyou',
       ),
-      94 => 
+      91 => 
       array (
         'code' => '623',
         'name' => '黒井',
@@ -233034,7 +232836,7 @@ return array (
         'hira' => 'くろい',
         'roma' => 'kuroi',
       ),
-      95 => 
+      92 => 
       array (
         'code' => '624',
         'name' => '豊浦町',
@@ -233042,7 +232844,7 @@ return array (
         'hira' => 'とようらちよう',
         'roma' => 'toyourachiyou',
       ),
-      96 => 
+      93 => 
       array (
         'code' => '625',
         'name' => '豊北町',
@@ -233050,7 +232852,7 @@ return array (
         'hira' => 'ほうほくちよう',
         'roma' => 'houhokuchiyou',
       ),
-      97 => 
+      94 => 
       array (
         'code' => '626',
         'name' => '神田',
@@ -233058,7 +232860,7 @@ return array (
         'hira' => 'かんだ',
         'roma' => 'kanda',
       ),
-      98 => 
+      95 => 
       array (
         'code' => '627',
         'name' => '豊田町',
@@ -233066,7 +232868,7 @@ return array (
         'hira' => 'とよたちよう',
         'roma' => 'toyotachiyou',
       ),
-      99 => 
+      96 => 
       array (
         'code' => '681',
         'name' => '美祢統括本部',
@@ -233074,7 +232876,7 @@ return array (
         'hira' => 'みねとうかつほんぶ',
         'roma' => 'minetoukatsuhombu',
       ),
-      100 => 
+      97 => 
       array (
         'code' => '682',
         'name' => '美東',
@@ -233082,7 +232884,7 @@ return array (
         'hira' => 'みとう',
         'roma' => 'mitou',
       ),
-      101 => 
+      98 => 
       array (
         'code' => '683',
         'name' => '秋芳',
@@ -233090,7 +232892,7 @@ return array (
         'hira' => 'しゆうほう',
         'roma' => 'shiyuuhou',
       ),
-      102 => 
+      99 => 
       array (
         'code' => '684',
         'name' => '共和',
@@ -233098,7 +232900,7 @@ return array (
         'hira' => 'きようわ',
         'roma' => 'kiyouwa',
       ),
-      103 => 
+      100 => 
       array (
         'code' => '685',
         'name' => '西厚保',
@@ -233106,7 +232908,7 @@ return array (
         'hira' => 'にしあつ',
         'roma' => 'nishiatsu',
       ),
-      104 => 
+      101 => 
       array (
         'code' => '686',
         'name' => '美祢',
@@ -233114,7 +232916,7 @@ return array (
         'hira' => 'みね',
         'roma' => 'mine',
       ),
-      105 => 
+      102 => 
       array (
         'code' => '751',
         'name' => '長門統括本部',
@@ -233122,7 +232924,7 @@ return array (
         'hira' => 'ながととうかつほんぶ',
         'roma' => 'nagatotoukatsuhombu',
       ),
-      106 => 
+      103 => 
       array (
         'code' => '752',
         'name' => '深川',
@@ -233130,7 +232932,7 @@ return array (
         'hira' => 'ふかわ',
         'roma' => 'fukawa',
       ),
-      107 => 
+      104 => 
       array (
         'code' => '753',
         'name' => '俵山',
@@ -233138,7 +232940,7 @@ return array (
         'hira' => 'たわらやま',
         'roma' => 'tawarayama',
       ),
-      108 => 
+      105 => 
       array (
         'code' => '754',
         'name' => '仙崎',
@@ -233146,7 +232948,7 @@ return array (
         'hira' => 'せんざき',
         'roma' => 'senzaki',
       ),
-      109 => 
+      106 => 
       array (
         'code' => '755',
         'name' => '三隅',
@@ -233154,7 +232956,7 @@ return array (
         'hira' => 'みすみ',
         'roma' => 'misumi',
       ),
-      110 => 
+      107 => 
       array (
         'code' => '756',
         'name' => '日置',
@@ -233162,7 +232964,7 @@ return array (
         'hira' => 'へき',
         'roma' => 'heki',
       ),
-      111 => 
+      108 => 
       array (
         'code' => '757',
         'name' => '油谷',
@@ -233170,7 +232972,7 @@ return array (
         'hira' => 'ゆや',
         'roma' => 'yuya',
       ),
-      112 => 
+      109 => 
       array (
         'code' => '758',
         'name' => '向津具',
@@ -233178,7 +232980,7 @@ return array (
         'hira' => 'むかつく',
         'roma' => 'mukatsuku',
       ),
-      113 => 
+      110 => 
       array (
         'code' => '900',
         'name' => '本所',
@@ -233188,7 +232990,7 @@ return array (
       ),
     ),
   ),
-  1054 => 
+  1052 => 
   array (
     'code' => '8231',
     'name' => '徳島市農協',
@@ -233271,7 +233073,7 @@ return array (
       ),
     ),
   ),
-  1055 => 
+  1053 => 
   array (
     'code' => '8234',
     'name' => '東とくしま農協',
@@ -233330,7 +233132,7 @@ return array (
       ),
     ),
   ),
-  1056 => 
+  1054 => 
   array (
     'code' => '8252',
     'name' => '徳島県農協',
@@ -233541,7 +233343,7 @@ return array (
       ),
     ),
   ),
-  1057 => 
+  1055 => 
   array (
     'code' => '8261',
     'name' => '大津松茂農協',
@@ -233576,7 +233378,7 @@ return array (
       ),
     ),
   ),
-  1058 => 
+  1056 => 
   array (
     'code' => '8263',
     'name' => '里浦農協',
@@ -233595,7 +233397,7 @@ return array (
       ),
     ),
   ),
-  1059 => 
+  1057 => 
   array (
     'code' => '8300',
     'name' => '市場町農協',
@@ -233614,7 +233416,7 @@ return array (
       ),
     ),
   ),
-  1060 => 
+  1058 => 
   array (
     'code' => '8301',
     'name' => '阿波郡東部農協',
@@ -233633,7 +233435,7 @@ return array (
       ),
     ),
   ),
-  1061 => 
+  1059 => 
   array (
     'code' => '8332',
     'name' => '香川県農協',
@@ -234396,7 +234198,7 @@ return array (
       ),
     ),
   ),
-  1062 => 
+  1060 => 
   array (
     'code' => '8389',
     'name' => 'うま農協',
@@ -234463,7 +234265,7 @@ return array (
       ),
     ),
   ),
-  1063 => 
+  1061 => 
   array (
     'code' => '8397',
     'name' => 'えひめ未来農協',
@@ -234530,7 +234332,7 @@ return array (
       ),
     ),
   ),
-  1064 => 
+  1062 => 
   array (
     'code' => '8398',
     'name' => '周桑農協',
@@ -234589,7 +234391,7 @@ return array (
       ),
     ),
   ),
-  1065 => 
+  1063 => 
   array (
     'code' => '8400',
     'name' => '越智今治農協',
@@ -234752,7 +234554,7 @@ return array (
       ),
     ),
   ),
-  1066 => 
+  1064 => 
   array (
     'code' => '8401',
     'name' => '今治立花農協',
@@ -234779,7 +234581,7 @@ return array (
       ),
     ),
   ),
-  1067 => 
+  1065 => 
   array (
     'code' => '8425',
     'name' => '松山市農協',
@@ -235094,7 +234896,7 @@ return array (
       ),
     ),
   ),
-  1068 => 
+  1066 => 
   array (
     'code' => '8457',
     'name' => '愛媛たいき農協',
@@ -235201,7 +235003,7 @@ return array (
       ),
     ),
   ),
-  1069 => 
+  1067 => 
   array (
     'code' => '8463',
     'name' => '西宇和農協',
@@ -235284,7 +235086,7 @@ return array (
       ),
     ),
   ),
-  1070 => 
+  1068 => 
   array (
     'code' => '8477',
     'name' => '東宇和農協',
@@ -235335,7 +235137,7 @@ return array (
       ),
     ),
   ),
-  1071 => 
+  1069 => 
   array (
     'code' => '8482',
     'name' => 'えひめ南農協',
@@ -235410,7 +235212,7 @@ return array (
       ),
     ),
   ),
-  1072 => 
+  1070 => 
   array (
     'code' => '8500',
     'name' => 'えひめ中央農協',
@@ -235621,7 +235423,7 @@ return array (
       ),
     ),
   ),
-  1073 => 
+  1071 => 
   array (
     'code' => '8551',
     'name' => '高知市農協',
@@ -235744,7 +235546,7 @@ return array (
       ),
     ),
   ),
-  1074 => 
+  1072 => 
   array (
     'code' => '8582',
     'name' => '高知県農協',
@@ -236060,7 +235862,7 @@ return array (
       38 => 
       array (
         'code' => '605',
-        'name' => '東津野',
+        'name' => '東津野出張所',
         'kana' => 'ヒガシツノ',
         'hira' => 'ひがしつの',
         'roma' => 'higashitsuno',
@@ -236147,7 +235949,7 @@ return array (
       ),
     ),
   ),
-  1075 => 
+  1073 => 
   array (
     'code' => '8589',
     'name' => '土佐くろしお農協',
@@ -236238,7 +236040,7 @@ return array (
       ),
     ),
   ),
-  1076 => 
+  1074 => 
   array (
     'code' => '8621',
     'name' => '宗像農協',
@@ -236313,7 +236115,7 @@ return array (
       ),
     ),
   ),
-  1077 => 
+  1075 => 
   array (
     'code' => '8626',
     'name' => '粕屋農協',
@@ -236412,7 +236214,7 @@ return array (
       ),
     ),
   ),
-  1078 => 
+  1076 => 
   array (
     'code' => '8632',
     'name' => '福岡市東部農協',
@@ -236511,7 +236313,7 @@ return array (
       ),
     ),
   ),
-  1079 => 
+  1077 => 
   array (
     'code' => '8633',
     'name' => '福岡市農協',
@@ -236754,7 +236556,7 @@ return array (
       ),
     ),
   ),
-  1080 => 
+  1078 => 
   array (
     'code' => '8635',
     'name' => '糸島農協',
@@ -236845,7 +236647,7 @@ return array (
       ),
     ),
   ),
-  1081 => 
+  1079 => 
   array (
     'code' => '8636',
     'name' => '筑紫農協',
@@ -237096,7 +236898,7 @@ return array (
       ),
     ),
   ),
-  1082 => 
+  1080 => 
   array (
     'code' => '8645',
     'name' => '筑前あさくら農協',
@@ -237179,93 +236981,7 @@ return array (
       ),
     ),
   ),
-  1083 => 
-  array (
-    'code' => '8653',
-    'name' => 'にじ農協',
-    'kana' => 'ニジノウキヨウ',
-    'hira' => 'にじのうきよう',
-    'roma' => 'nijinoukiyou',
-    'branches' => 
-    array (
-      0 => 
-      array (
-        'code' => '001',
-        'name' => '本店',
-        'kana' => 'ホンテン',
-        'hira' => 'ほんてん',
-        'roma' => 'honten',
-      ),
-      1 => 
-      array (
-        'code' => '004',
-        'name' => '吉井',
-        'kana' => 'ヨシイ',
-        'hira' => 'よしい',
-        'roma' => 'yoshii',
-      ),
-      2 => 
-      array (
-        'code' => '012',
-        'name' => '浮羽',
-        'kana' => 'ウキハ',
-        'hira' => 'うきは',
-        'roma' => 'ukiha',
-      ),
-      3 => 
-      array (
-        'code' => '023',
-        'name' => '田主丸',
-        'kana' => 'タヌシマル',
-        'hira' => 'たぬしまる',
-        'roma' => 'tanushimaru',
-      ),
-    ),
-  ),
-  1084 => 
-  array (
-    'code' => '8656',
-    'name' => 'みい農協',
-    'kana' => 'ミイノウキヨウ',
-    'hira' => 'みいのうきよう',
-    'roma' => 'miinoukiyou',
-    'branches' => 
-    array (
-      0 => 
-      array (
-        'code' => '004',
-        'name' => '小郡中央',
-        'kana' => 'オゴオリチユウオウ',
-        'hira' => 'おごおりちゆうおう',
-        'roma' => 'ogoorichiyuuou',
-      ),
-      1 => 
-      array (
-        'code' => '008',
-        'name' => '北野中央',
-        'kana' => 'キタノチユウオウ',
-        'hira' => 'きたのちゆうおう',
-        'roma' => 'kitanochiyuuou',
-      ),
-      2 => 
-      array (
-        'code' => '011',
-        'name' => '大刀洗中央',
-        'kana' => 'タチアライチユウオウ',
-        'hira' => 'たちあらいちゆうおう',
-        'roma' => 'tachiaraichiyuuou',
-      ),
-      3 => 
-      array (
-        'code' => '100',
-        'name' => '本店',
-        'kana' => 'ホンテン',
-        'hira' => 'ほんてん',
-        'roma' => 'honten',
-      ),
-    ),
-  ),
-  1085 => 
+  1081 => 
   array (
     'code' => '8660',
     'name' => '久留米市農協',
@@ -237322,9 +237038,57 @@ return array (
         'hira' => 'せいぶ',
         'roma' => 'seibu',
       ),
+      6 => 
+      array (
+        'code' => '104',
+        'name' => '吉井',
+        'kana' => 'ヨシイ',
+        'hira' => 'よしい',
+        'roma' => 'yoshii',
+      ),
+      7 => 
+      array (
+        'code' => '112',
+        'name' => '浮羽',
+        'kana' => 'ウキハ',
+        'hira' => 'うきは',
+        'roma' => 'ukiha',
+      ),
+      8 => 
+      array (
+        'code' => '123',
+        'name' => '田主丸',
+        'kana' => 'タヌシマル',
+        'hira' => 'たぬしまる',
+        'roma' => 'tanushimaru',
+      ),
+      9 => 
+      array (
+        'code' => '204',
+        'name' => '小郡中央',
+        'kana' => 'オゴオリチユウオウ',
+        'hira' => 'おごおりちゆうおう',
+        'roma' => 'ogoorichiyuuou',
+      ),
+      10 => 
+      array (
+        'code' => '208',
+        'name' => '北野中央',
+        'kana' => 'キタノチユウオウ',
+        'hira' => 'きたのちゆうおう',
+        'roma' => 'kitanochiyuuou',
+      ),
+      11 => 
+      array (
+        'code' => '211',
+        'name' => '大刀洗中央',
+        'kana' => 'タチアライチユウオウ',
+        'hira' => 'たちあらいちゆうおう',
+        'roma' => 'tachiaraichiyuuou',
+      ),
     ),
   ),
-  1086 => 
+  1082 => 
   array (
     'code' => '8664',
     'name' => '三潴町農協',
@@ -237343,7 +237107,7 @@ return array (
       ),
     ),
   ),
-  1087 => 
+  1083 => 
   array (
     'code' => '8667',
     'name' => '福岡大城農協',
@@ -237386,7 +237150,7 @@ return array (
       ),
     ),
   ),
-  1088 => 
+  1084 => 
   array (
     'code' => '8668',
     'name' => '福岡八女農協',
@@ -237493,7 +237257,7 @@ return array (
       ),
     ),
   ),
-  1089 => 
+  1085 => 
   array (
     'code' => '8680',
     'name' => '柳川農協',
@@ -237560,7 +237324,7 @@ return array (
       ),
     ),
   ),
-  1090 => 
+  1086 => 
   array (
     'code' => '8689',
     'name' => '南筑後農協',
@@ -237611,7 +237375,7 @@ return array (
       ),
     ),
   ),
-  1091 => 
+  1087 => 
   array (
     'code' => '8692',
     'name' => '北九州農協',
@@ -237782,7 +237546,7 @@ return array (
       ),
     ),
   ),
-  1092 => 
+  1088 => 
   array (
     'code' => '8694',
     'name' => '直鞍農協',
@@ -237817,7 +237581,7 @@ return array (
       ),
     ),
   ),
-  1093 => 
+  1089 => 
   array (
     'code' => '8701',
     'name' => '福岡嘉穂農協',
@@ -237916,7 +237680,7 @@ return array (
       ),
     ),
   ),
-  1094 => 
+  1090 => 
   array (
     'code' => '8715',
     'name' => '田川農協',
@@ -238007,7 +237771,7 @@ return array (
       ),
     ),
   ),
-  1095 => 
+  1091 => 
   array (
     'code' => '8730',
     'name' => '福岡京築農協',
@@ -238099,14 +237863,14 @@ return array (
       10 => 
       array (
         'code' => '141',
-        'name' => '勝山',
-        'kana' => 'カツヤマ',
-        'hira' => 'かつやま',
-        'roma' => 'katsuyama',
+        'name' => 'みやこ',
+        'kana' => 'ミヤコ',
+        'hira' => 'みやこ',
+        'roma' => 'miyako',
       ),
     ),
   ),
-  1096 => 
+  1092 => 
   array (
     'code' => '8740',
     'name' => '佐賀市中央農協',
@@ -238125,7 +237889,7 @@ return array (
       ),
     ),
   ),
-  1097 => 
+  1093 => 
   array (
     'code' => '8762',
     'name' => '佐賀県農協',
@@ -238528,7 +238292,7 @@ return array (
       ),
     ),
   ),
-  1098 => 
+  1094 => 
   array (
     'code' => '8766',
     'name' => '唐津農協',
@@ -238619,7 +238383,7 @@ return array (
       ),
     ),
   ),
-  1099 => 
+  1095 => 
   array (
     'code' => '8771',
     'name' => '伊万里市農協',
@@ -238694,7 +238458,7 @@ return array (
       ),
     ),
   ),
-  1100 => 
+  1096 => 
   array (
     'code' => '8794',
     'name' => '長崎西彼農協',
@@ -238817,7 +238581,7 @@ return array (
       ),
     ),
   ),
-  1101 => 
+  1097 => 
   array (
     'code' => '8813',
     'name' => '長崎県央農協',
@@ -238956,7 +238720,7 @@ return array (
       ),
     ),
   ),
-  1102 => 
+  1098 => 
   array (
     'code' => '8829',
     'name' => '島原雲仙農協',
@@ -239111,7 +238875,7 @@ return array (
       ),
     ),
   ),
-  1103 => 
+  1099 => 
   array (
     'code' => '8857',
     'name' => 'ながさき西海農協',
@@ -239226,7 +238990,7 @@ return array (
       ),
     ),
   ),
-  1104 => 
+  1100 => 
   array (
     'code' => '8893',
     'name' => 'ごとう農協',
@@ -239285,7 +239049,7 @@ return array (
       ),
     ),
   ),
-  1105 => 
+  1101 => 
   array (
     'code' => '8905',
     'name' => '壱岐市農協',
@@ -239320,7 +239084,7 @@ return array (
       ),
     ),
   ),
-  1106 => 
+  1102 => 
   array (
     'code' => '8906',
     'name' => '対馬農協',
@@ -239363,7 +239127,7 @@ return array (
       ),
     ),
   ),
-  1107 => 
+  1103 => 
   array (
     'code' => '8916',
     'name' => '熊本市農協',
@@ -239518,7 +239282,7 @@ return array (
       ),
     ),
   ),
-  1108 => 
+  1104 => 
   array (
     'code' => '8926',
     'name' => '玉名農協',
@@ -239625,7 +239389,7 @@ return array (
       ),
     ),
   ),
-  1109 => 
+  1105 => 
   array (
     'code' => '8941',
     'name' => '鹿本農協',
@@ -239692,7 +239456,7 @@ return array (
       ),
     ),
   ),
-  1110 => 
+  1106 => 
   array (
     'code' => '8949',
     'name' => '菊池地域農協',
@@ -239775,7 +239539,7 @@ return array (
       ),
     ),
   ),
-  1111 => 
+  1107 => 
   array (
     'code' => '8964',
     'name' => '阿蘇農協',
@@ -239826,7 +239590,7 @@ return array (
       ),
     ),
   ),
-  1112 => 
+  1108 => 
   array (
     'code' => '8982',
     'name' => '上益城農協',
@@ -239893,7 +239657,7 @@ return array (
       ),
     ),
   ),
-  1113 => 
+  1109 => 
   array (
     'code' => '9010',
     'name' => '熊本宇城農協',
@@ -239976,7 +239740,7 @@ return array (
       ),
     ),
   ),
-  1114 => 
+  1110 => 
   array (
     'code' => '9017',
     'name' => '八代地域農協',
@@ -240059,7 +239823,7 @@ return array (
       ),
     ),
   ),
-  1115 => 
+  1111 => 
   array (
     'code' => '9043',
     'name' => 'あしきた農協',
@@ -240086,7 +239850,7 @@ return array (
       ),
     ),
   ),
-  1116 => 
+  1112 => 
   array (
     'code' => '9048',
     'name' => '球磨地域農協',
@@ -240137,7 +239901,7 @@ return array (
       ),
     ),
   ),
-  1117 => 
+  1113 => 
   array (
     'code' => '9069',
     'name' => '本渡五和農協',
@@ -240180,7 +239944,7 @@ return array (
       ),
     ),
   ),
-  1118 => 
+  1114 => 
   array (
     'code' => '9070',
     'name' => 'あまくさ農協',
@@ -240247,7 +240011,7 @@ return array (
       ),
     ),
   ),
-  1119 => 
+  1115 => 
   array (
     'code' => '9072',
     'name' => '苓北町農協',
@@ -240266,7 +240030,7 @@ return array (
       ),
     ),
   ),
-  1120 => 
+  1116 => 
   array (
     'code' => '9103',
     'name' => 'べっぷ日出農協',
@@ -240301,7 +240065,7 @@ return array (
       ),
     ),
   ),
-  1121 => 
+  1117 => 
   array (
     'code' => '9104',
     'name' => '大分県農協',
@@ -240632,7 +240396,7 @@ return array (
       ),
     ),
   ),
-  1122 => 
+  1118 => 
   array (
     'code' => '9145',
     'name' => '大分大山町農協',
@@ -240651,7 +240415,7 @@ return array (
       ),
     ),
   ),
-  1123 => 
+  1119 => 
   array (
     'code' => '9169',
     'name' => '宮崎県農協',
@@ -241414,7 +241178,7 @@ return array (
       ),
     ),
   ),
-  1124 => 
+  1120 => 
   array (
     'code' => '9229',
     'name' => '鹿児島みらい農協',
@@ -241545,7 +241309,7 @@ return array (
       ),
     ),
   ),
-  1125 => 
+  1121 => 
   array (
     'code' => '9251',
     'name' => 'いぶすき農協',
@@ -241596,7 +241360,7 @@ return array (
       ),
     ),
   ),
-  1126 => 
+  1122 => 
   array (
     'code' => '9257',
     'name' => '南さつま農協',
@@ -241655,7 +241419,7 @@ return array (
       ),
     ),
   ),
-  1127 => 
+  1123 => 
   array (
     'code' => '9270',
     'name' => 'さつま日置農協',
@@ -241746,7 +241510,7 @@ return array (
       ),
     ),
   ),
-  1128 => 
+  1124 => 
   array (
     'code' => '9296',
     'name' => '北さつま農協',
@@ -241877,7 +241641,7 @@ return array (
       ),
     ),
   ),
-  1129 => 
+  1125 => 
   array (
     'code' => '9302',
     'name' => '鹿児島いずみ農協',
@@ -241968,7 +241732,7 @@ return array (
       ),
     ),
   ),
-  1130 => 
+  1126 => 
   array (
     'code' => '9319',
     'name' => 'あいら農協',
@@ -242091,7 +241855,7 @@ return array (
       ),
     ),
   ),
-  1131 => 
+  1127 => 
   array (
     'code' => '9332',
     'name' => 'そお鹿児島農協',
@@ -242158,7 +241922,7 @@ return array (
       ),
     ),
   ),
-  1132 => 
+  1128 => 
   array (
     'code' => '9338',
     'name' => 'あおぞら農協',
@@ -242177,7 +241941,7 @@ return array (
       ),
     ),
   ),
-  1133 => 
+  1129 => 
   array (
     'code' => '9341',
     'name' => '鹿児島きもつき農協',
@@ -242284,7 +242048,7 @@ return array (
       ),
     ),
   ),
-  1134 => 
+  1130 => 
   array (
     'code' => '9347',
     'name' => '肝付吾平町農協',
@@ -242303,7 +242067,7 @@ return array (
       ),
     ),
   ),
-  1135 => 
+  1131 => 
   array (
     'code' => '9353',
     'name' => '種子屋久農協',
@@ -242354,7 +242118,7 @@ return array (
       ),
     ),
   ),
-  1136 => 
+  1132 => 
   array (
     'code' => '9363',
     'name' => 'あまみ農協',
@@ -242445,7 +242209,7 @@ return array (
       ),
     ),
   ),
-  1137 => 
+  1133 => 
   array (
     'code' => '9375',
     'name' => '沖縄県農協',
@@ -242880,21 +242644,13 @@ return array (
       ),
       53 => 
       array (
-        'code' => '551',
-        'name' => '南城ハート',
-        'kana' => 'ナンジヨウハ－ト',
-        'hira' => 'なんじようは－と',
-        'roma' => 'nanjiyouha-to',
-      ),
-      54 => 
-      array (
         'code' => '559',
         'name' => '南城',
         'kana' => 'ナンジヨウ',
         'hira' => 'なんじよう',
         'roma' => 'nanjiyou',
       ),
-      55 => 
+      54 => 
       array (
         'code' => '569',
         'name' => '東風平',
@@ -242902,7 +242658,7 @@ return array (
         'hira' => 'こちんだ',
         'roma' => 'kochinda',
       ),
-      56 => 
+      55 => 
       array (
         'code' => '571',
         'name' => '南風原中部',
@@ -242910,7 +242666,7 @@ return array (
         'hira' => 'はえばるちゆうぶ',
         'roma' => 'haebaruchiyuubu',
       ),
-      57 => 
+      56 => 
       array (
         'code' => '573',
         'name' => '南風原町役場',
@@ -242918,7 +242674,7 @@ return array (
         'hira' => 'はえばるちようやくば',
         'roma' => 'haebaruchiyouyakuba',
       ),
-      58 => 
+      57 => 
       array (
         'code' => '579',
         'name' => '南風原',
@@ -242926,7 +242682,7 @@ return array (
         'hira' => 'はえばる',
         'roma' => 'haebaru',
       ),
-      59 => 
+      58 => 
       array (
         'code' => '589',
         'name' => '津嘉山',
@@ -242934,7 +242690,7 @@ return array (
         'hira' => 'つかざん',
         'roma' => 'tsukazan',
       ),
-      60 => 
+      59 => 
       array (
         'code' => '599',
         'name' => '久米島',
@@ -242942,7 +242698,7 @@ return array (
         'hira' => 'くめじま',
         'roma' => 'kumejima',
       ),
-      61 => 
+      60 => 
       array (
         'code' => '619',
         'name' => '南大東',
@@ -242950,7 +242706,7 @@ return array (
         'hira' => 'みなみだいとう',
         'roma' => 'minamidaitou',
       ),
-      62 => 
+      61 => 
       array (
         'code' => '629',
         'name' => '北大東',
@@ -242958,7 +242714,7 @@ return array (
         'hira' => 'きただいとう',
         'roma' => 'kitadaitou',
       ),
-      63 => 
+      62 => 
       array (
         'code' => '701',
         'name' => '宮古島',
@@ -242966,7 +242722,7 @@ return array (
         'hira' => 'みやこじま',
         'roma' => 'miyakojima',
       ),
-      64 => 
+      63 => 
       array (
         'code' => '702',
         'name' => '城辺',
@@ -242974,7 +242730,7 @@ return array (
         'hira' => 'ぐすくべ',
         'roma' => 'gusukube',
       ),
-      65 => 
+      64 => 
       array (
         'code' => '704',
         'name' => '多良間',
@@ -242982,7 +242738,7 @@ return array (
         'hira' => 'たらま',
         'roma' => 'tarama',
       ),
-      66 => 
+      65 => 
       array (
         'code' => '749',
         'name' => '八重山',
@@ -242990,7 +242746,7 @@ return array (
         'hira' => 'やえやま',
         'roma' => 'yaeyama',
       ),
-      67 => 
+      66 => 
       array (
         'code' => '759',
         'name' => '大浜',
@@ -242998,7 +242754,7 @@ return array (
         'hira' => 'おおはま',
         'roma' => 'oohama',
       ),
-      68 => 
+      67 => 
       array (
         'code' => '768',
         'name' => '与那国',
@@ -243006,7 +242762,7 @@ return array (
         'hira' => 'よなぐに',
         'roma' => 'yonaguni',
       ),
-      69 => 
+      68 => 
       array (
         'code' => '780',
         'name' => '本店',
@@ -243016,7 +242772,7 @@ return array (
       ),
     ),
   ),
-  1138 => 
+  1134 => 
   array (
     'code' => '9450',
     'name' => '北海道信漁連',
@@ -243083,26 +242839,7 @@ return array (
       ),
     ),
   ),
-  1139 => 
-  array (
-    'code' => '9456',
-    'name' => '福島県信漁連',
-    'kana' => 'フクシマケンシンギヨレン',
-    'hira' => 'ふくしまけんしんぎよれん',
-    'roma' => 'fukushimakenshingiyoren',
-    'branches' => 
-    array (
-      0 => 
-      array (
-        'code' => '001',
-        'name' => '本店',
-        'kana' => 'ホンテン',
-        'hira' => 'ほんてん',
-        'roma' => 'honten',
-      ),
-    ),
-  ),
-  1140 => 
+  1135 => 
   array (
     'code' => '9461',
     'name' => '東日本信漁連',
@@ -243129,13 +242866,21 @@ return array (
       ),
       2 => 
       array (
+        'code' => '030',
+        'name' => '福島',
+        'kana' => 'フクシマ',
+        'hira' => 'ふくしま',
+        'roma' => 'fukushima',
+      ),
+      3 => 
+      array (
         'code' => '060',
         'name' => '茨城',
         'kana' => 'イバラキ',
         'hira' => 'いばらき',
         'roma' => 'ibaraki',
       ),
-      3 => 
+      4 => 
       array (
         'code' => '100',
         'name' => '青森',
@@ -243143,7 +242888,7 @@ return array (
         'hira' => 'あおもり',
         'roma' => 'aomori',
       ),
-      4 => 
+      5 => 
       array (
         'code' => '200',
         'name' => '岩手',
@@ -243151,7 +242896,7 @@ return array (
         'hira' => 'いわて',
         'roma' => 'iwate',
       ),
-      5 => 
+      6 => 
       array (
         'code' => '220',
         'name' => '大船渡',
@@ -243159,7 +242904,7 @@ return array (
         'hira' => 'おおふなと',
         'roma' => 'oofunato',
       ),
-      6 => 
+      7 => 
       array (
         'code' => '230',
         'name' => '釜石大槌',
@@ -243167,7 +242912,7 @@ return array (
         'hira' => 'かまいしおおつち',
         'roma' => 'kamaishiootsuchi',
       ),
-      7 => 
+      8 => 
       array (
         'code' => '250',
         'name' => '宮古山田',
@@ -243175,7 +242920,7 @@ return array (
         'hira' => 'みやこやまだ',
         'roma' => 'miyakoyamada',
       ),
-      8 => 
+      9 => 
       array (
         'code' => '290',
         'name' => '北三陸',
@@ -243183,7 +242928,7 @@ return array (
         'hira' => 'きたさんりく',
         'roma' => 'kitasanriku',
       ),
-      9 => 
+      10 => 
       array (
         'code' => '300',
         'name' => '新潟',
@@ -243191,7 +242936,7 @@ return array (
         'hira' => 'にいがた',
         'roma' => 'niigata',
       ),
-      10 => 
+      11 => 
       array (
         'code' => '400',
         'name' => '富山',
@@ -243199,7 +242944,7 @@ return array (
         'hira' => 'とやま',
         'roma' => 'toyama',
       ),
-      11 => 
+      12 => 
       array (
         'code' => '430',
         'name' => '宮城',
@@ -243207,7 +242952,7 @@ return array (
         'hira' => 'みやぎ',
         'roma' => 'miyagi',
       ),
-      12 => 
+      13 => 
       array (
         'code' => '500',
         'name' => '石川',
@@ -243215,7 +242960,7 @@ return array (
         'hira' => 'いしかわ',
         'roma' => 'ishikawa',
       ),
-      13 => 
+      14 => 
       array (
         'code' => '600',
         'name' => '福井',
@@ -243223,7 +242968,7 @@ return array (
         'hira' => 'ふくい',
         'roma' => 'fukui',
       ),
-      14 => 
+      15 => 
       array (
         'code' => '700',
         'name' => '静岡',
@@ -243231,7 +242976,7 @@ return array (
         'hira' => 'しずおか',
         'roma' => 'shizuoka',
       ),
-      15 => 
+      16 => 
       array (
         'code' => '800',
         'name' => '愛知',
@@ -243239,7 +242984,7 @@ return array (
         'hira' => 'あいち',
         'roma' => 'aichi',
       ),
-      16 => 
+      17 => 
       array (
         'code' => '900',
         'name' => '三重',
@@ -243247,7 +242992,7 @@ return array (
         'hira' => 'みえ',
         'roma' => 'mie',
       ),
-      17 => 
+      18 => 
       array (
         'code' => '910',
         'name' => '伊勢鳥羽',
@@ -243255,7 +243000,7 @@ return array (
         'hira' => 'いせとば',
         'roma' => 'isetoba',
       ),
-      18 => 
+      19 => 
       array (
         'code' => '940',
         'name' => '尾鷲',
@@ -243265,7 +243010,7 @@ return array (
       ),
     ),
   ),
-  1141 => 
+  1136 => 
   array (
     'code' => '9475',
     'name' => '京都府信漁連',
@@ -243284,7 +243029,7 @@ return array (
       ),
     ),
   ),
-  1142 => 
+  1137 => 
   array (
     'code' => '9477',
     'name' => 'なぎさ信漁連',
@@ -243327,7 +243072,7 @@ return array (
       ),
     ),
   ),
-  1143 => 
+  1138 => 
   array (
     'code' => '9481',
     'name' => 'ＪＦしまね漁協',
@@ -243346,7 +243091,7 @@ return array (
       ),
     ),
   ),
-  1144 => 
+  1139 => 
   array (
     'code' => '9483',
     'name' => '広島県信漁連',
@@ -243413,7 +243158,7 @@ return array (
       ),
     ),
   ),
-  1145 => 
+  1140 => 
   array (
     'code' => '9484',
     'name' => '山口県漁協',
@@ -243480,7 +243225,7 @@ return array (
       ),
     ),
   ),
-  1146 => 
+  1141 => 
   array (
     'code' => '9485',
     'name' => '徳島県信漁連',
@@ -243499,7 +243244,7 @@ return array (
       ),
     ),
   ),
-  1147 => 
+  1142 => 
   array (
     'code' => '9486',
     'name' => '西日本信漁連',
@@ -243550,7 +243295,7 @@ return array (
       ),
     ),
   ),
-  1148 => 
+  1143 => 
   array (
     'code' => '9487',
     'name' => '愛媛県信漁連',
@@ -243577,7 +243322,7 @@ return array (
       ),
     ),
   ),
-  1149 => 
+  1144 => 
   array (
     'code' => '9489',
     'name' => '九州信漁連',
@@ -243684,7 +243429,7 @@ return array (
       ),
     ),
   ),
-  1150 => 
+  1145 => 
   array (
     'code' => '9493',
     'name' => '大分県漁協',
@@ -243703,7 +243448,7 @@ return array (
       ),
     ),
   ),
-  1151 => 
+  1146 => 
   array (
     'code' => '9900',
     'name' => 'ゆうちょ',
