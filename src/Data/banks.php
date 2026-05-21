@@ -236984,10 +236984,10 @@ return array (
   1081 => 
   array (
     'code' => '8660',
-    'name' => '久留米市農協',
-    'kana' => 'クルメシノウキヨウ',
-    'hira' => 'くるめしのうきよう',
-    'roma' => 'kurumeshinoukiyou',
+    'name' => '福岡久留米市農協',
+    'kana' => 'フクオカクルメシノウキヨウ',
+    'hira' => 'ふくおかくるめしのうきよう',
+    'roma' => 'fukuokakurumeshinoukiyou',
     'branches' => 
     array (
       0 => 
